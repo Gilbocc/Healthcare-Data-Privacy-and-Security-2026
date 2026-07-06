@@ -1,0 +1,313 @@
+name: Build All Lessons - Single Release
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  discover-lessons:
+    runs-on: ubuntu-latest
+    outputs:
+      lessons: ${{ steps.discover.outputs.lessons }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Discover lesson directories
+        id: discover
+        run: |
+          # Find all lesson-NN directories
+          LESSONS=$(find . -maxdepth 1 -type d -name 'lesson-[0-9][0-9]' | sed 's|./lesson-||' | sort | jq -R -s -c 'split("\n")[:-1]')
+          echo "lessons=$LESSONS" >> $GITHUB_OUTPUT
+          echo "Found lessons: $LESSONS"
+
+  build-lesson:
+    needs: discover-lessons
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        lesson: ${{ fromJson(needs.discover-lessons.outputs.lessons) }}
+      fail-fast: false
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up variables
+        id: setup
+        run: |
+          LESSON_DIR="lesson-${{ matrix.lesson }}"
+          echo "lesson_dir=$LESSON_DIR" >> $GITHUB_OUTPUT
+          echo "lesson_num=${{ matrix.lesson }}" >> $GITHUB_OUTPUT
+
+      - name: Verify lesson directory
+        run: |
+          LESSON_DIR="${{ steps.setup.outputs.lesson_dir }}"
+          if [ ! -d "$LESSON_DIR" ]; then
+            echo "Error: Directory $LESSON_DIR does not exist"
+            exit 1
+          fi
+          if [ ! -f "$LESSON_DIR/slides/main.tex" ]; then
+            echo "Error: $LESSON_DIR/slides/main.tex not found"
+            exit 1
+          fi
+          echo "✓ Found lesson directory: $LESSON_DIR"
+
+      - name: Pull lesson texlive image
+        run: |
+          LESSON_DIR="${{ steps.setup.outputs.lesson_dir }}"
+          cd "$LESSON_DIR"
+          docker compose pull texlive
+
+      - name: Build PDF from LaTeX
+        run: |
+          LESSON_DIR="${{ steps.setup.outputs.lesson_dir }}"
+          echo "Building PDF for $LESSON_DIR..."
+          # Use the lesson script so CI matches local build behavior.
+          cd "$LESSON_DIR"
+          bash scripts/build-slides.sh --clean
+          bash scripts/build-slides.sh
+          cd ..
+          
+          if [ ! -f "$LESSON_DIR/slides/main.pdf" ]; then
+            echo "Error: PDF not created"
+            exit 1
+          fi
+          echo "✓ PDF created successfully"
+          ls -lh "$LESSON_DIR/slides/main.pdf"
+
+      - name: Create examples archive
+        run: |
+          LESSON_DIR="${{ steps.setup.outputs.lesson_dir }}"
+          LESSON_NUM="${{ steps.setup.outputs.lesson_num }}"
+          
+          echo "Creating examples archive for lesson $LESSON_NUM..."
+          # Package almost all lesson files for students.
+          # Exclusions: @material, slides, and slide build scripts.
+          mapfile -t FILES < <(find "$LESSON_DIR" -type f \
+            -not -path "$LESSON_DIR/README.md" \
+            -not -path "$LESSON_DIR/@material/*" \
+            -not -path "$LESSON_DIR/slides/*" \
+            -not -path "$LESSON_DIR/scripts/build-slides.sh" \
+            -not -path "$LESSON_DIR/scripts/build-slides.ps1" \
+            -not -path "*/.git/*" \
+            -not -name ".DS_Store" \
+            | sort)
+
+          if [ "${#FILES[@]}" -gt 0 ]; then
+            zip -r "lesson-${LESSON_NUM}-examples.zip" "${FILES[@]}" || true
+          fi
+          
+          if [ ! -f "lesson-${LESSON_NUM}-examples.zip" ]; then
+            echo "Warning: Examples zip not created (examples folder may be empty)"
+            touch "lesson-${LESSON_NUM}-examples.zip"
+          fi
+          echo "✓ Examples archive created"
+          ls -lh "lesson-${LESSON_NUM}-examples.zip"
+
+      - name: Rename PDF for release
+        run: |
+          LESSON_DIR="${{ steps.setup.outputs.lesson_dir }}"
+          LESSON_NUM="${{ steps.setup.outputs.lesson_num }}"
+          
+          mv "$LESSON_DIR/slides/main.pdf" "lesson-${LESSON_NUM}-slides.pdf"
+          echo "✓ PDF renamed for release"
+          ls -lh lesson-${LESSON_NUM}-*.pdf lesson-${LESSON_NUM}-*.zip
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: lesson-${{ steps.setup.outputs.lesson_num }}-artifacts
+          path: |
+            lesson-${{ steps.setup.outputs.lesson_num }}-slides.pdf
+            lesson-${{ steps.setup.outputs.lesson_num }}-examples.zip
+          retention-days: 30
+
+      - name: Clean up LaTeX build artifacts
+        if: always()
+        run: |
+          LESSON_DIR="${{ steps.setup.outputs.lesson_dir }}"
+          if [ -d "$LESSON_DIR/slides" ]; then
+            cd "$LESSON_DIR/slides"
+            latexmk -C || true
+          fi
+
+  create-combined-release:
+    needs: build-lesson
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Get current timestamp and commit info
+        id: info
+        run: |
+          echo "timestamp=$(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> "$GITHUB_OUTPUT"
+          echo "commit_sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+          {
+            echo "commit_msg<<EOF_COMMIT_MSG"
+            git log -1 --pretty=%B
+            echo "EOF_COMMIT_MSG"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+
+      - name: Organize artifacts
+        run: |
+          mkdir -p release-artifacts
+          
+          # Move all PDFs and zips from artifact directories
+          find . -name "lesson-*-slides.pdf" -exec mv {} release-artifacts/ \;
+          find . -name "lesson-*-examples.zip" -exec mv {} release-artifacts/ \;
+          
+          echo "=== Release Contents ==="
+          ls -lh release-artifacts/
+          echo ""
+          echo "Total files: $(ls release-artifacts | wc -l)"
+
+      - name: Create comprehensive release notes
+        id: release_notes
+        run: |
+          COMMIT_SHA="${{ steps.info.outputs.commit_sha }}"
+          TIMESTAMP="${{ steps.info.outputs.timestamp }}"
+          
+          cat > release_notes.md << 'EOF'
+          # Latest Lessons
+          
+          **Build Date:** TIMESTAMP
+          **Commit:** COMMIT_SHA
+          
+          This release contains all lecture materials and example code for all lessons.
+          
+          ## Contents
+          
+          Each lesson includes:
+          - `lesson-NN-slides.pdf` - Lecture slides (auto-built from LaTeX)
+          - `lesson-NN-examples.zip` - Lesson bundle with all key runtime files (code, scripts, etc.)
+          
+          ### Included Lessons
+          EOF
+          
+          # Extract lesson numbers and add to notes
+          for pdf in release-artifacts/lesson-*-slides.pdf; do
+            LESSON=$(basename "$pdf" | sed 's/lesson-\([0-9]*\).*/\1/')
+            SIZE=$(ls -lh "$pdf" | awk '{print $5}')
+            echo "- **Lesson $LESSON** - $SIZE" >> release_notes.md
+          done
+          
+          cat >> release_notes.md << 'EOF'
+          
+          ## Quick Start
+          
+          1. Download this release
+          2. Extract all PDFs and zips to a folder
+          3. Open any PDF to view lecture slides
+          4. Extract a zip to run examples:
+             ```bash
+             unzip lesson-01-examples.zip
+             cd lesson-01
+             ./scripts/run-clingo.sh examples/01-example.lp
+             ```
+          
+          ### Contents Summary
+          
+          - All lesson PDFs (lecture slides)
+          - All lesson example zips (code + scripts)
+          - Everything needed to run examples locally
+          
+          ### Running Examples
+          
+          Each lesson includes the script for running examples:
+          
+          ```bash
+          cd lesson-NN
+          ./scripts/run.sh examples/01-example.lp
+          ```
+          
+          Requires Docker.
+          
+          ---
+          
+          *Auto-generated on each push to main/master. This is the latest build with all lessons.*
+          EOF
+          
+          # Replace placeholders
+          sed -i "s|TIMESTAMP|$TIMESTAMP|g" release_notes.md
+          sed -i "s|COMMIT_SHA|$COMMIT_SHA|g" release_notes.md
+          
+          cat release_notes.md
+
+      - name: Delete old latest release
+        continue-on-error: true
+        run: |
+          gh release delete latest -y || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create combined GitHub Release (retryable)
+        run: |
+          set -euo pipefail
+
+          # Create release with retries to survive transient GitHub 5xx errors
+          for attempt in 1 2 3; do
+            if gh release create latest \
+              --title "Lessons - All Materials" \
+              --notes-file release_notes.md \
+              --latest \
+              --target "$GITHUB_SHA"; then
+              echo "Release created on attempt $attempt"
+              break
+            fi
+
+            if [[ "$attempt" -eq 3 ]]; then
+              echo "Failed to create release after 3 attempts"
+              exit 1
+            fi
+
+            echo "Create release failed. Retrying... ($((4-attempt)) retries remaining)"
+            sleep $((attempt * 5))
+          done
+
+          # Upload each asset with retries and overwrite support
+          for file in release-artifacts/*; do
+            echo "Uploading $(basename "$file")..."
+            uploaded=false
+            for attempt in 1 2 3; do
+              if gh release upload latest "$file" --clobber; then
+                uploaded=true
+                echo "Uploaded $(basename "$file") on attempt $attempt"
+                break
+              fi
+
+              if [[ "$attempt" -lt 3 ]]; then
+                echo "Upload failed for $(basename "$file"). Retrying... ($((3-attempt)) retries remaining)"
+                sleep $((attempt * 5))
+              fi
+            done
+
+            if [[ "$uploaded" != true ]]; then
+              echo "Failed to upload $(basename "$file") after 3 attempts"
+              exit 1
+            fi
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show release summary
+        run: |
+          echo "✓ Release created successfully!"
+          echo ""
+          echo "Release tag: latest"
+          echo "Contents:"
+          ls -lh release-artifacts/
+
