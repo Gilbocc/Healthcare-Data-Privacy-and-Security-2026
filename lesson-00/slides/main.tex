@@ -1,23 +1,42 @@
 \documentclass[presentation]{beamer}
-\mode<presentation>{\usetheme{AMSBolognaFC}}
+\mode<presentation>{\usetheme{AMSBolognaFCrev}}
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage[ddmmyyyy]{datetime}
+\usepackage[export]{adjustbox}
 
 \renewcommand{\dateseparator}{/}
 
 \title[Lesson 1]{Course Overview}
-\institute[Healthcare Data Privacy and Security]{Healthcare Data Privacy and Security 2026}
+\institute[Data Privacy and Security]{Healthcare Data Privacy and Security}
 \author[\sspeaker{G. Pisano}]{\speaker{Giuseppe Pisano} \\\href{mailto:g.pisano@unibo.it}{g.pisano@unibo.it}}
-\date[\today]{\today}
+\date[August, 2026]{August, 2026}
+%
+\titlegraphic{
+%\vspace{0.2cm}
+\begin{center}
+    \includegraphics[width=0.35\textwidth, valign=c]{logos/intestazione.png}
+    \includegraphics[width=0.16\textwidth, valign=c]{logos/unibo_logo_2.png}
+    \includegraphics[width=0.11\textwidth, valign=c]{logos/makeni_logo_2.png}
+    \includegraphics[width=0.20\textwidth, valign=c]{logos/cuamm_logo_png.png}
+\end{center}
+\centering
+\tiny{S.K.I.L.L.E.D --- AID013244/04/2\\Strategic Knowledge and Inclusive Lifelong Learning in the health sector for youth Employability and Development}
+}
 
 \begin{document}
 
-\setbeamertemplate{background}{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{almacesena-background.pdf}%
+\setbeamertemplate{frametitle}
+{
+    \nointerlineskip
+    \begin{beamercolorbox}[sep=0.3cm,ht=2.2em,wd=\paperwidth]{frametitle}
+        \vbox{}\vskip-2ex%
+        \strut\insertframetitle\hfill\raisebox{-0.2\height}{\includegraphics[width=2cm]{logos/cuamm_logo_png.png}}\strut
+        \vskip-0.8ex%
+    \end{beamercolorbox}
 }
 
 \begin{frame}[allowframebreaks]
@@ -45,18 +64,12 @@ Topics covered:
 \textbf{Schedule:} 10 lessons \texttimes{} 3h30m each
 \end{frame}
 
-\begin{frame}[c,allowframebreaks]{Doubts? Mail me!}
-\begin{center}
-\Large g.pisano@unibo.it
-\end{center}
-\end{frame}
-
 \section{Program}
 
 \begin{frame}[c,allowframebreaks]{Module 1 --- Basics}
 \textit{(1 lesson)}
 \begin{itemize}
-    \item Importance of data protection in healthcare settings
+    \item Importance of data protection in healthcare settings \cite{health_privacy_2025}
     \item Intro to data
     \begin{itemize}
         \item Definitions: Privacy, security, confidentiality, integrity, availability, \ldots
@@ -148,6 +161,31 @@ Topics covered:
     \item Incident response lifecycle
     \item Backup, recovery, and business continuity
 \end{itemize}
+\end{frame}
+
+\begin{frame}[c,allowframebreaks]{Doubts? Mail me!}
+\begin{center}
+\Large g.pisano@unibo.it
+\end{center}
+\end{frame}
+
+\begin{frame}[allowframebreaks]
+\titlepage
+\end{frame}
+
+%===============================================================================
+\section*{\refname}
+%===============================================================================
+
+\setbeamertemplate{page number in head/foot}{}
+%/////////
+\begin{frame}[c,allowframebreaks,noframenumbering]{\refname}
+%\begin{frame}[t,allowframebreaks,noframenumbering]{\refname}
+%	\tiny
+	\scriptsize
+%	\footnotesize
+	\bibliographystyle{apalike-AMS}
+	\bibliography{main}
 \end{frame}
 
 \end{document}
