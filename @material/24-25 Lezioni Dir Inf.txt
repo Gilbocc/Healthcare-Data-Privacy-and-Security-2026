@@ -1,0 +1,2171 @@
+La tutela giuridica di
+hardware e so1ware
+        Lezione 03.2
+Il calcolatore come bene economico
+• Quali esigenza di tutela giuridica dell’hardware e so4ware?
+   • Sostenibilità economica
+   • Concorrenza
+   • Invezione ed espressione ar;s;ca
+   • Riservatezza di informazioni
+• Problemi
+   • Possibilità di u;lizzo
+   • Libertà di conoscenza
+Le tutele giuridica tra hardware v. software
+• Le tutele giuridiche sull’hardware/soEware è improntanta a proteggerne la
+  proprietà. Non soltanto intesa come disponibilità del bene, ma anche e
+  sopraIuIo come proprietà intelle+uale, cioè quelle norme che si occupano di
+  tutelare I fru0 dell'inven4va e dell'ingegno umano.
+• Mentre l’hardware viene tutelato aIraverso lo strumento del breve+o (proprietà
+  industriale), il soEware è ricondoIo a quella del diri+o d’autore (copyright) non
+  senza molteplici discussioni. In realtà nel corso degli anni, si è ammesso che
+  anche il soEware può essere breveIato, qualora esso abbia un eﬀeIo tecnico
+• Specialmente rispeIo al soEware, l’accostamento a ques; is;tu; ha faIo
+  discture, ragioni di tutela economica più che giuridica
+• Esistono tuIavia modelli diversi che si rifanno a principi libertari e di accesso alla
+  conoscenza, sopratuIo per il soEware (open source)
+• Recentemente si è espansa la tutela dell’hardware e del soEware (informazione
+  su processo industriale) tramite il segreto industriale
+Il brevetto
+• Diritto a produrre e commercializzare in
+  esclusiva un oggetto o sistema sul
+  territorio in cui viene concesso
+• Strumento giuridico di tutela che
+  conferisce a chi ha realizzato
+  un’invenzione il monopolio temporaneo
+  di sfruttamento
+• Diritto di vietare a terzi di produrlo,
+  usarlo, metterlo in commercio, venderlo
+  o importarlo e trarne profitto
+• In Italia: Codice della proprietà
+  industriale, emanato con il D.L 10
+  febbraio 2005
+L’invenzione
+• È la soluzione ad un problema tecnico nonché la realizzazione di
+  qualcosa di non preesistente
+• È differente dalla scoperta, che non è brevettabile, e legata alla
+  descrizione / interpretazione di un fenomeno già esistente ma non
+  spiegabile
+• Le scoperte non sono brevettabili
+Non sono invenzioni
+• Le scoperte
+• Le teorie scienDﬁche e
+• i metodi matemaDci
+• i piani, principi e metodi per aFvità intelleGuale
+• I programmi per elaborazioni
+• le presentazioni di informazioni
+à solo nella misura in cui la domanda di breveGo o il breveGo
+concerna scoperte, teorie, piani, principi, metodi, programmi e
+presentazioni di informazioni “considera3 in quanto tali.”
+La brevettabilità del software:
+• Esigenze economiche e produFve anche di tutela tramite breveGo
+• Proposta una direFva per la breveGabilità del so4ware, bocciata nel
+  luglio 2005 (648 contro e solo 14 i favorevoli, con 18 astenuD)
+• Ruolo della giurisprudenza che valorizza l’espressione “in quanto
+  tale”: si accede anche al breveGo, sempre che sussista un eﬀe8o
+  tecnico, un idea è espressa anche in modo logico o algoritmico. Sono
+  le cosiddeGe “computer-implemented inve1ons”
+Computer-implemented inventions: esempi
+• un software che controlla il sistema frenante di un’automobile oppure un
+  processo industriale od un sistema di comunicazione a distanza.
+• un’applicazione che consenta di controllare dal telefono l’allarme della
+  propria abitazione, il sistema di riscaldamento, l’impianto audio etc.
+• un’applicazione software che riduca la distorsione od il rumore di fondo di
+  una registrazione audio, un traduttore automatico oppure un software che
+  permetta il funzionamento di un navigatore GPS.
+• Un software che fa funzionare il touch screen di un telefono cellulare o
+  quello che gestisce i consumi energetici di un’autovettura.
+• Programmi che gestiscono il funzionamento interno di un hardware, ad
+  esempio permettendo una migliore organizzazione della memoria del
+  computer.
+Un’invenzione importante
+                           • A general purpose digital
+                             computer which comprises a
+                             plurality of metal-oxide-
+                             semiconductor (MOS) chips.
+                             Random-access-memories (RAM)
+                             and read-only memories (ROM)
+                             used as part of the computer are
+                             coupled to common bi-directional
+                             data buses to a central processing
+                             unit (CPU) with each memory
+                             including decoding circuitry to
+                             determine which of the plu rality
+                             of memory chips is being
+                             addressed by the CPU. The
+                             computer is fabricated using chips
+                             mounted on standard 16 pin dual
+                             in-line packages allowing
+                             additional memory chips to be
+                             added to the computer.
+• h"ps://paten+mages.storage.googleapis.c
+  om/8f/cd/c9/d4cd4e5e9936d5/US100022
+  59.pdf
+I modelli di uAlità
+• Costituisce un altro tipo oggetto tutelato dal brevetto
+• Modifica migliorativa di oggetti esistenti
+• Esiste in Italia e pochi altri stati. Dura 10 anni non rinnovabili
+• Il modello di utilità è un trovato che fornisce a macchine o parti di esse, a
+  strumenti, utensili od oggetti di uso in genere, particolare efficacia o
+  comodità di applicazione o d'impiego. Per esempio, le scarpe con suola
+  traspirante (Geox®).
+• Nel mondo dell’ingegneria informatica, è sicuramente il più gettonato: si è
+  interessati interessati a protegge l’elemento di novità alla base della
+  tecnologia immessa sul mercato (es. le dimensioni specifiche del
+  meccanismo, il modo in cui si muove e le parti esatte che fanno funzionare
+  questo pezzo di tecnologia)
+I modelli di uAlità
+Requisiti di brevettabilità
+• Novità (nuovo assoluto mai prodoGo o breveGato e divulgato)
+• Originalità o aFvità invenDva (se per un esperto non risulta in modo
+  evidente dallo stato della tecnica)
+• Industrialità (se riproducibile a livello industriale)
+• Liceità (se non lede il senso del buon costume)
+“Voice-based determination of physical and
+emotional characteristics of users”
+Disegni e modelli
+È l'aspeTo dell'intero prodoTo o di una sua parte quale risulta, in parUcolare,
+dalle caraTerisUche delle linee, dei contorni, dei colori, della forma, della
+stru8ura superﬁciale ovvero dei materiali del prodoTo stesso ovvero del suo
+ornamento.
+
+I requisiU speciﬁci:
+• la novità, che ricorre quando nessun disegno o modello idenUco è già stato
+   divulgato;
+• il caraTere individuale, ovvero la capacità del disegno o modello di suscitare
+   nell'uUlizzatore informato una impressione generale diﬀerente da altri
+   disegni o modelli
+• la liceità, ovvero la non contrarietà del disegno o modello all'ordine pubblico
+   o al buon costume
+Disegni e modelli
+I breveI di Steve Jobs
+• I brevetti di Steve Jobs:
+  http://www.nytimes.com/interactive/2011/08/24/technology/steve-
+  jobs-patents.html?ref=business
+• Steve Jobs’ patent iPhone:
+  https://www.youtube.com/watch?v=39HpH0cC2eg&ab_channel=Ada
+  rshChandran
+La durata del brevetto
+• Il breveGo per invenzione industriale dura 20 anni a decorrere dalla
+  data di deposito della domanda e non può essere rinnovato, ne’ può
+  esserne prorogata la durata
+• Il breveGo per modello di uDlità dura 10 anni dalla data di
+  presentazione della domanda.
+• Il breveGo per disegni e modelli dura 5 anni a decorrere dalla data di
+  presentazione della domanda e può essere rinnovata
+Chi e come si brevetta
+• Depositando presso un apposito organismo la
+  domanda di breveGo con gli allegaD (descrizione
+  ed eventuali disegni dell’invenzione)
+• Il diriGo al breveGo speGa all'autore
+  dell'invenzione o del modello o ai suoi avenD
+  causa (nel caso di rapporto di lavoro all’autore
+  speGa la paternità e al datore lo sfruGamento)
+• Validità territoriale: Italia, Europa, internazionale
+• BreveGo europeo (EUIPO): con un’unica domanda
+  si richiede il breveGo in più staD europei
+Alcuni scontri tra Atani
+
+
+
+
+                           https://en.wikipedia.org/wiki/Smartphone_patent_wars
+SoMware come bene economico
+Caratteristiche:
+• non-rivale
+• non-escludibile (se non adottando misure tecniche o giuridiche)
+
+Proprietà intellettuale
+• monopolio temporaneo mediante misure giuridiche e tecniche
+La tutela giuridica del software
+• BreveTo e/o copyright?
+• Il copyright si impone come strumento di tutela
+   • Dire%va 91/250/CE recepita con il D.lgs. 518 del 1992 estende la tutela giuridica ai
+     programmi
+   • La stessa scelta è stata operata nei ricorda@ traAa@ internazionali TRIPs e WCT
+   • Modiﬁca la storica legge italiana sul diriAo d’autore, L. 633/1941, che aﬀondava le
+     radici nella Convenzione di Berna (1886)
+   • Viene vietato l’uso del breveAo come strumento di tutela del soVware
+• Art. 1 L. 633/1941 “Sono altresì proted i programmi per elaboratore come
+  opere leTerarie, nonché le banche daU che per scelta o disposizione
+  cosUtuiscono creazione intelleTuale dell’autore”
+• Crescente valore commerciale del sogware à crescente uso del segreto
+  industriale
+Il copyright sul software
+Il so&ware rimane comunque principalmente tutelato
+mediante diri4o d’autore (copyright)
+• Forma del diri4o d’autore presente nel mondo anglosassone
+• Sinonimo di «diri4o d’autore»
+• Si indica con
+Il copyright nell’era digitale
+• Affrancamento dell’opera tradizionale dal supporto
+  fisico/materiale, riproducibilità dell’opera e circolazione
+  tramite la rete
+• I nuovi beni informatici: software, banche dati, domain
+  names, NFT, creazioni d’IA
+• Nuovo concetto di autore? L’IA come fonte di opere creative
+• Nuove attori (piattaforme) e modalità di protezione
+  (tecniche)
+Opere creaAve o opere uAli?
+• Progressivo allargamento dell’ambito delle opere tutelate dal
+  diritto d’autore, graduale abbassamento della soglia di
+  creatività dell’opera
+• Ciò vale anche per i software che, più che opere dotate di
+  creatività, sono prodotti funzionali a risolvere un problema
+• In dottrina è stata creata la definizione di “opere utili”: la
+  creatività diventa elemento negativo, come “mera non
+  compiatura”
+• Critiche
+I software e le banche dati come opere
+letterarie
+• L’art. 1 l.d.a. deﬁnisce l’ogge3o della disciplina stabilendo: «Sono
+  prote3e ai sensi di questa legge le opere dell’ingegno di cara3ere
+  crea;vo che appartengono alla le3eratura, alla musica, alle ar;
+  ﬁgura;ve, all’archite3ura, al teatro ed alla cinematograﬁa,
+  qualunque ne sia il modo o la forma di espressione. Sono altresì
+  proteB i programmi per elaboratore come opere le3erarie ai
+  sensi della Convenzione di Berna sulla protezione delle opere
+  le3erarie ed ar;s;che ra;ﬁcata e resa esecu;va con legge 20
+  giugno 1978, n. 399, nonché le banche di da; che per la scelta o
+  la disposizione del materiale cos;tuiscono una creazione
+  intelle3uale dell’autore».
+Cosa è tutelato?
+La tutela si estende ai programmi “in qualsiasi forma espressi purché
+originali” à limite della forma espressiva (no idee, no principi che stanno
+alla base)
+• Il codice sorgente, cioè l’insieme delle istruzioni scritte dal programmatore
+  in un determinato linguaggio di programmazione
+• Il codice oggetto, cioè l’insieme delle istruzioni del programma tradotte in
+  linguaggio macchina
+• Qualunque tipo di software (sistemi operativi, programmi applicativi, ecc.)
+• Relativi materiali preparatori (diagrammi di flusso, le descrizioni di
+  sequenza, le specifiche funzionali)
+I diriI connessi: i diriI morali
+• Diritto all’inedito
+• Diritto alla paternità dell’opera (vs. plagio)
+• Diritto all’integrità dell’opera
+• Diritto al ritiro dal commercio
+Sono diritti inalienabili e irrinunciabili
+I diriI connessi: i diriI patrimoniali
+Tutelano la capacità dell’autore di trarre un guadagno dall’opera
+• la riproduzione, permanente o temporanea, totale o parziale,
+  con qualsiasi mezzo o in qualsiasi forma
+• la traduzione, l’adattamento, la trasformazione e ogni altra
+  modificazione
+• qualsiasi forma di distribuzione al pubblico, compresa la
+  locazione
+I diritti possono essere alienati a terzi. Durano 70 anni dalla morte
+dell’autore.
+Diritti economici e escludibilità
+• il Dtolare dei diriF economici può lecitamente (ha il permesso di)
+  eﬀeGuare le uDlizzazioni rientranD nei diriF esclusivi;
+• il Dtolare dei diriF economici ha il potere di autorizzare altri a
+  eﬀeGuare le uDlizzazioni rientranD nei propri diriF esclusivi, nei limiD
+  e nei modi da egli stabiliD;
+• quelle uDlizzazioni sono precluse a ogni altro soggeGo, se non
+  autorizzato dal Dtolare dei diriF.
+I titolare
+• Il creatore o autore annunciato con un nome, o se più autori,
+  plurisoggeTvo.
+• In adempimento ad un contra4o l’autore è Utolare dei diriT
+  morali, mentre il datore di lavoro di quelli economici
+Il soMware creato dall’IA: i LLMs
+Quali sfide dell’IA?
+• Chi è l’autore del programma?
+• Chi può uDlizzare liberamente? Si può trarre un
+  vantaggio economico?
+• Quale responsabilità (dell’utente) in caso di errore?
+• Il codice generato è veramente originale? Dove ha
+  imparato l’IA?
+Licenza d’uso
+L’uso del so4ware è concesso con il contra8o di licenza d’uso, con cui il
+licenziante fornisce al licenziatario il permesso di usare il so4ware
+(diverso dal contraGo di sviluppo so4ware), e trasferisce (o si impegna
+a trasferire) copia del so4ware:
+• Normalmente al licenziatario è trasferita copia del solo so4ware
+  compilato (Il so4ware compilato è chiuso nel senso che all’utente è
+  preclusa la possibilità di accedere al codice sorgente)
+• il Dtolare dei diriF può adoGare ulteriori misure tecnologiche volte a
+  impedire che i possessori di copie del so4ware ne facciano uso in
+  modi non autorizzaD
+Le eccezioni: le cd. libere uAlizzazioni
+L’utente legittimo, cioè colui che abbia acquisito il diritto di usare il
+programma, può:
+• Esercitare le le attività coperte dai diritti patrimoniali se necessarie
+  all’uso del software conformemente alla sua destinazione, inclusa la
+  correzione degli errori.
+• Studio e comprensione dei meccanismi che hanno determinato la
+  creazione
+• Fare una copia di riserva, se necessaria per l’uso
+• Svolgere la decompilazione ma solo per l’interoperabilità
+La decompilazione (cd. reverse engineering)
+La decompilazione è l'aFvità di ingegneria inversa mediante la quale
+viene ricostruito il codice sorgente a parDre da un ﬁle eseguibile in
+linguaggio macchina. Il decompilatore è un programma che tenta,
+aGraverso alcune eurisDche, di ricavare e ricostruire il codice sorgente.
+Solo se:
+• sono eseguite dal licenziatario;
+• le informazioni non siano già facilmente e rapidamente accessibili in
+  altro modo
+• siano limitate alle parD necessarie per conseguire l’interoperabilità.
+Le misure tecnologiche
+• La compulazione come misura tecnologica di protezione: la
+  distribuzione solo del codice oggeGo non permeGe di conoscere il
+  codice sorgente (salvo reverse engineering)
+• L’autenDcazione aGraverso il collegamento ad Internet (es. Microso4)
+• GesDone automaDca delle licenze (es. Digital Rights Management),
+  possono richiedere che gli utenD inseriscano una chiave di licenza
+  valida per aFvare il so4ware e veriﬁcare periodicamente la validità
+  della licenza, eventualmente con diﬀerenD uDlizzazioni
+• CriGograﬁa
+à Il ruolo dell’ “architeGura” su Internet (Lessig)
+I rimedi civilistici
+Art. 158.
+1. Chi venga leso nell’esercizio di un diriTo di uUlizzazione economica a lui
+speTante può agire in giudizio per oTenere, oltre al risarcimento del danno
+che, a spese dell’autore della violazione, sia distruTo o rimosso lo stato di
+faTo da cui risulta la violazione.
+Art. 163.
+1. Il Utolare di un diriTo di uUlizzazione economica può chiedere che sia
+disposta l’inibitoria di qualsiasi advità, ivi comprese quelle cosUtuenU servizi
+prestaU da intermediari, che cosUtuisca violazione del diriTo stesso secondo
+le norme del codice di procedura civile concernenU i procedimenU cautelari.
+2. Pronunciando l’inibitoria, il giudice può ﬁssare una somma dovuta per
+ogni violazione o inosservanza successivamente constatata o per ogni ritardo
+nell’esecuzione del provvedimento.
+Le sanzioni penali
+Art. 171
+Salvo quanto previsto dall'art. 171-bis e dall'articolo 171-ter e' punito con la multa da L. 500 a L. 20.000 chiunque,
+senza averne diritto, a qualsiasi scopo e in qualsiasi forma:
+a) riproduce, trascrive, recita in pubblico, diffonde, vende o mette in vendita o pone altrimenti in commercio un'opera
+altrui o ne rivela il contenuto prima che sia reso pubblico, o introduce e mette in circolazione nel Regno esemplari
+prodotti all'estero contrariamente alla legge italiana;
+a-bis) mette a disposizione del pubblico, immettendola in un sistema di reti telematiche, mediante connessioni di
+qualsiasi genere, un'opera dell'ingegno protetta, o parte di essa;
+b) rappresenta, esegue o recita in pubblico o diffonde, con o senza variazioni od aggiunte, un'opera altrui adatta a
+pubblico spettacolo od una composizione musicale. La rappresentazione o esecuzione comprende la proiezione
+pubblica dell'opera cinematografica, l'esecuzione in pubblico delle composizioni musicali inserite nelle opere
+cinematografiche e la radiodiffusione mediante altoparlante azionato in pubblico;
+c) compie i fatti indicati nelle precedenti lettere mediante una delle forme di elaborazione previste da questa legge;
+d) riproduce un numero di esemplari o esegue o rappresenta un numero di esecuzioni o di rappresentazioni maggiore
+di quello che aveva il diritto rispettivamente di riprodurre o di rappresentare;
+[…]
+La duplicazione del soMware
+1. Chiunque abusivamente duplica, per trarne proﬁGo, programmi per
+elaboratore o ai medesimi ﬁni importa, distribuisce, vende, deDene a
+scopo commerciale o imprenditoriale o concede in locazione
+programmi contenuD in supporD non contrassegnaD dalla Società
+italiana degli autori ed editori (SIAE), è soggeGo alla pena della
+reclusione da sei mesi a tre anni e della multa da euro 2.582 a euro
+15.493.
+La stessa pena si applica se il faGo concerne qualsiasi mezzo inteso
+unicamente a consenDre o facilitare la rimozione arbitraria o l’elusione
+funzionale di disposiDvi applicaD a protezione di un programma per
+elaboratori. La pena non è inferiore nel minimo a due anni di reclusione
+e la multa a euro 15.493 se il faGo è di rilevante gravità.
+Giustificazione del modello proprietario
+• Protezione degli invesDmenD e incenDvi economici: possibilità di
+  oGenere un ritorno ﬁnanziario sugli invesDmenD, dunque incenDvo
+  alla creazioni di nuovi so4ware
+• Segretezza commerciale: mantenere il codice sorgente segreto può
+  proteggere le informazioni commerciali sensibili
+• Diﬀerenziazione compeDDva: il so4ware proprietario può conferire un
+  vantaggio compeDDvo all'azienda, in quanto può essere un elemento
+  disDnDvo rispeGo ai concorrenD.
+Critiche al modello proprietario
+• limita l’uso del sogware a quanU abbiamo potuto pagare il prezzo chiesto
+  dal Utolare dei dirid (perdita di eﬃcienza)
+• la distribuzione del sogware solo nella versione compilata comporta una
+  perdita nella diﬀusione della conoscenza e un limite all’esigenza di
+  trasparenza
+• la distribuzione del solo codice oggeTo, in combinazione con la sua
+  protezione mediante il diriTo d’autore comporta l’impossibilità di
+  sviluppare il sogware stesso, di perfezionarlo o di usarne le componenU
+  nello sviluppo di altri sogware.
+• perdita di libertà e democraUcità
+• perdita della libertà di partecipare alla cultura
+• tendenza monopolisUca
+L’alternaAva al modello proprietario
+• Contro il monopolio sulla creazione
+  e distribuzione del modello
+  proprietario
+• Sono sempre esistiti paradigmi
+  diversi volti a favorire la conoscenza
+  e la diffusioni dei programmi
+Richard Stallman e il soMware libero
+hGps://www.youtu
+be.com/watch?v=A
+g1AKIl_2GM
+
+
+ Negli anni 70, al MIT,
+ in opposizione al
+ modello
+ proprietario...
+Le libertà di Stallman
+
+• Libertà di eseguire il programma, per qualsiasi scopo (libertà 0).
+• Libertà di studiare come funziona il programma e adaIarlo alle proprie necessità
+  (libertà 1). L’accesso al codice sorgente ne è un prerequisito.
+• Libertà di ridistribuire copie in modo da aiutare il prossimo (libertà 2).
+• Libertà di migliorare il programma e distribuirne pubblicamente i miglioramen;
+  da voi apporta; (e le vostre versioni modiﬁcate in genere), in modo tale che tuIa
+  la comunità ne tragga beneﬁcio (libertà 3). L’accesso al codice sorgente ne è un
+  prerequisito.
+
+Queste libertà sono garan;te dalla licenza GPL: www.gnu.url/licences/gpl.html (in
+inglese) --> si applica il diriIo d’autore ma le libertà sono così ampie, da svuotarlo
+Lo sviluppo del soMware libero
+• Nel 1984, Stallman fondò la Free So4ware FoundaDon, e avvia GNU
+• nel 1991 Linus Thorvald pubblica on line in nucleo del sistema
+  operaDvo LINUX, soGoponendolo alla GPL
+• MolD so4ware aGualmente in uso sono soggeF a GPL o a altra
+  licenza per so4ware open source
+La clausola virale (copyleft)
+I programmi (le opere derivate) che risultano dalla modiﬁca di un soVware soggeAo a GPL
+possono essere trasferite ad altri solo se assoggeAa@ anch’essi alla disciplina della GPL
+I soVware disciplina@ dalla GPL non sono quindi “di pubblico dominio”, cioè
+completamente soAra% al diriAo d’autore. Essi sono sogge%:
+• alla componente morale del diriAo d’autore (il riconoscimento della paternità dei suoi
+  autori, che deve essere obbligatoriamente indicata anche quando si distribuiscano
+  versioni modiﬁcate) e
+• al vincolo del copyleV.
+hAp://www.youtube.com/watch?v=u2k07BbPkDk&feature=related
+LimiA e virtù del soMware libero
+Anche se non è necessariamente graDs (“libero” non vuol dire “non
+commerciale”), l’autore ha possibilità di guadagno limitate: dopo la
+vendita della prima copia subisce la concorrenza del cessionario.
+Perché allora produrlo?
+• Beneﬁcio edonico
+• appropriazione indireGa
+• metodo collaboraDvo
+• obieFvi poliDco-sociali
+Disciplina giuridica e distribuzione del
+soMware
+• So4ware proprietario
+   • DiriIo d’autore + breveIo (se con eﬀeIo tecnico)
+• So4ware open source
+   • Ancora soIoposto a diriIo d’autore, ma con licenza di uso ambia, e
+     eventualmente con copyleE
+   • Diﬀerente dal soEware di pubblico dominio, che è soIraIo completamente
+     alla disciplina del diriIo d’autore
+• Freeware: liberamente uDlizzabili, ma non modiﬁcabili
+• Shareware: distribuito liberamente, ma a tempo o funzioni limitate
+• So4ware as a Service (SaaS): Il so4ware non è installato sul
+  calcolatore ma lavora sul server in remoto (à cloud compuDng)
+La tutela tramite segreto industriale
+DireIva (EU) 2016/943
+Attuata in Italia d. lgs 2018/63 che modifica
+Il CPI
+Può essere soggetto a segreto industriale qualsiasi informazione che
+soddisfi tutti i seguenti requisiti:
+• non è generalmente conosciuta è conosciuta da un numero limitato
+   di persone
+• ha valore economico perché e in quanto è segreta
+• è stata sottoposta a misure ragionevoli per mantenerla segreta
+Vantaggi e svantaggi                • Rischio di divulgazione: Se il
+                                      segreto viene rivelato o scoperto
+                                      legalmente (ad esempio tramite
+• Durata illimitata: Protezione è     reverse engineering), non esistono
+  potenzialmente illimitata nel       metodi per evitare conoscenza.
+  tempo, purché il segreto sia      • Diﬃcoltà nella tutela legale:
+  mantenuto.                          Dimostrare la violazione di un
+• Copertura ampia: Protegge           segreto industriale può essere
+  informazioni che non sono           complesso
+  breveTabili o che non sarebbero   • Assenza di diri= esclusivi: non
+  completamente tutelabili con il     garanUsce un diriTo esclusivo; altri
+  solo copyright.                     possono sviluppare e uUlizzare
+• Cos< rido=: No spese di             indipendentemente lo stesso
+  registrazione                       sogware.
+Misure ragionevoli per segreto
+Misure giuridiche
+• Accordi di riservatezza nei contraF dei dipendenD, collaborator e
+  terze parD
+• Implementare regolari controlli interni e formare i dipendenD sulla
+  sicurezza e l'importanza del mantenimento dei segreD aziendali.
+Misure informa3che
+• Limitazione all’accesso
+• CriGograﬁa e sicurezza informaDca
+Ipotesi di acquisizione illecita
+                          • Furto o spionaggio industriale
+                          • Bribery o corruzione
+                          • Violazione di NDA
+                          • Violazione sicurezza ﬁsica
+                          • Reverse engineering non
+                            autorizzato
+                          • Accesso non autorizzato a
+                            sistemi informaDci
+Privacy e trattamento dei dati
+           personali
+            Lezione 04.3
+Le origini del diritto alla privacy
+• Il diritto alla privacy nasce alla fine del 1800 in
+  America.
+• Articolo the Right to Privacy (Harvard Law Review
+  1980, Samuel D. Warren e Louis Brandeis)
+• Protezione contro la pubblicazione di fotografie e
+  scritti su «la vita privata, le abitudini, gli atti e le
+  relazioni di un individuo” che non rilevano per
+  ruoli pubblici o attività in pubblico
+• Diritto di essere lasciato solo: «Right to be let
+  alone»
+• Protezione mediante risarcimento (o ingiunzione
+  del giudice)
+Evoluzione della privacy
+• In Europa, la protezione di privacy si inserisce nel diritto civile tra i diritti
+  della persona o della personalità (diritti assoluti di ogni persona)
+• Emerge l’esigenza della protezione anche rispetto allo stato, e quindi la
+  dimensione pubblicistica della privacy
+• Privacy quale diritto umano/fondamentale, garanzia dell’autonomia
+  individuale e dell’assetto democratico della società
+Dichiarazione universale dei diritti umani
+(1948)
+• Articolo 12
+• Nessun individuo potrà essere
+  sottoposto ad interferenze arbitrarie nella
+  sua vita privata, nella sua famiglia, nella
+  sua casa, nella sua corrispondenza, né a
+  lesione del suo onore e della sua
+  reputazione. Ogni individuo ha diritto ad
+  essere tutelato dalla legge contro tali
+  interferenze o lesioni
+La CEDU (1950)
+                 Articolo 8. Diritto al rispetto della vita privata e
+                 familiare
+                 1. Ogni persona ha diritto al rispetto della sua vita
+                 privata e familiare, del suo domicilio e della sua
+                 corrispondenza.
+                 2. Non può esservi ingerenza della pubblica autorità
+                 nell’esercizio di tale diritto se non in quanto tale
+                 ingerenza sia prevista dalla legge e in quanto
+                 costituisca una misura che, in una società
+                 democratica, è necessaria per la sicurezza
+                 nazionale, l’ordine pubblico, il benessere
+                 economico del paese, la prevenzione dei reati, la
+                 protezione della salute o della morale, o la
+                 protezione dei diritti e delle libertà altrui.
+I due aspetti della privacy quale diritto umano
+• Privacy sulle decisioni (decision privacy):
+  protezione dell’autonomia della persona, nelle
+  scelte che attengono alla conduzione della sua vita
+  privata e familiare
+• Privacy sulle informazioni (information privacy):
+  protezione dell’autonomia della persona circa la
+  circolazione delle informazioni che attengono alla
+  sua vita private e familiare e corrispondenza.
+Diritto alla protezione dei dati
+          • A partire dagli anni ‘70, accanto alla nozione di privacy come
+            riservatezza, si è fatta largo la nozione di privacy come
+            protezione dei dati personali e parallelamente si è riconosciuto
+            il diritto alla protezione dei dati personali.
+          • Questo diritto consiste nel diritto di ciascuno di controllare la
+            circolazione delle informazioni riguardanti la propria persona.
+          • Mentre la privacy è stata costruita come un dispositivo
+            “escludente” ovvero come uno strumento per allontanare lo
+            sguardo indesiderato, la protezione dei dati personali mette al
+            centro la persona in riferimento ai suoi dati perché questi
+            costituiscono un’identità. Il diritto alla privacy diventa il diritto
+            all’autodeterminazione informativa dell’individuo.
+Il diritto alla privacy quale
+autodeterminazione sulle informazioni
+Il modello informativa e consenso
+(notice and consent)
+- consapevolezza da parte dell’individuo
+   interessato dei trattamenti aventi ad
+   oggetti i suoi dati personali da parte di
+   soggetti terzi (informativa)
+- controllo di tali trattamenti, ossia la
+   possibilità di permettere, escludere o
+   selettivamente autorizzare tali
+   trattamenti.
+La protezione dei dati personali
+“Una definizione della privacy come diritto d’esser
+lasciato solo ha da tempo perduto un valore generale,
+anche se continua a cogliere un aspetto essenziale del
+problema e può (deve) essere applicata a specifiche
+situazioni.
+Nella società dell’informazione tendono a prevalere
+definizioni funzionali della privacy che, in diversi modi,
+fanno riferimento alla possibilità di un soggetto di
+conoscere, controllare, indirizzare, interrompere il
+flusso delle informazioni che lo riguardano. la privacy,
+quindi, può essere più precisamente definita, in una
+prima approssimazione, come il diritto di mantenere il
+controllo sulle proprie informazioni”
+
+-- Stefano Rodotà, 1995
+La Convenzione n. 108 del 1981
+
+• È la prima fonte di diritto internazionale espressamente dedicata alla
+  protezione dei dati personali (firmata anche dall’Italia, ma entrata in vigore
+  solo nel 1997)
+• Ricollega espressamente (art. 1) la protezione dei dati personali alla tutela
+  della vita privata e familiare prevista dall’articolo 8 della CEDU, istituendo
+  così, per la prima volta sul piano legislativo, un collegamento concettuale
+  tra tutela della riservatezza e tutela dei dati personali
+• Riconosce la necessità di fornire un quadro di protezione uniforme del
+  diritto fondamentale di fronte all’intensificazione dei flussi internazionali di
+  dati a carattere personale, oggetto di elaborazione automatica (trattamenti
+  automatizzati)
+La Direttiva sulla protezione dati 95/46
+La Carta dei Diritti Fondamentali dell’UE
+(2000)
+Articolo 7. Rispetto della vita privata e della vita familiare
+Ogni persona ha diritto al rispetto della propria vita privata e
+familiare, del proprio domicilio e delle proprie comunicazioni.
+
+Articolo 8. Protezione dei dati di carattere personale
+1. Ogni persona ha diritto alla protezione dei dati di carattere
+personale che la riguardano.
+2. Tali dati devono essere trattati secondo il principio di lealtà,
+per finalità determinate e in base al consenso della persona
+interessata o a un altro fondamento legittimo previsto dalla
+legge. Ogni persona ha il diritto di accedere ai dati raccolti che la
+riguardano e di ottenerne la rettifica.
+3. Il rispetto di tali regole è soggetto al controllo di un'autorità
+indipendente.
+Il ruolo della Corte di Giustizia dell’UE
+Si sviluppa una giurisprudenza della CGUE basata sull’art. 8 CEDU
+come parametro di costituzionalità per interpretare atti giuridici
+nazionali e dell’UE,
+Importantissime sentenze:
+• Digital Rights Ireland
+• Google Spain
+• Schrems I e II
+•…
+Viene addirittura invalidata una direttiva sulla Data retention
+Regolamento Generale sulla Protezione dei
+dati
+L’evoluzione della privacy in Italia
+Legge 31 dicembre 1996, n. 675 (Tutela delle persone e
+di altri soggetti rispetto al trattamento dei dati personali),
+trasposizione della Direttiva 95/46/EC
+D.Lgs. 30 giugno 2003, n. 196 (Codice in materia di
+protezione dei dati personali), necessità di raccogliere
+discipline generale + discipline speciali in un unico codice
+Regolamento UE 2016/679 (Regolamento Generale sulla
+Protezione dei Dati, direttamente applicabile)
+D.Lgs. 10 agosto 2018, n. 101 (Disposizioni per
+l'adeguamento della normativa nazionale alle disposizioni
+del regolamento (UE) 2016/679)
+I contenuti del regolamento – Oggetto e
+finalità (art. 1)
+1. Il presente regolamento stabilisce norme relative alla protezione delle persone
+fisiche con riguardo al trattamento dei dati personali, nonché norme relative alla
+libera circolazione di tali dati.
+2. Il presente regolamento protegge i diritti e le libertà fondamentali delle persone
+fisiche, in particolare il diritto alla protezione dei dati personali.
+3. La libera circolazione dei dati personali nell'Unione non può essere limitata né
+vietata per motivi attinenti alla protezione delle persone fisiche con riguardo al
+trattamento dei dati personali.
+
+           Protezione dei dati                                  Libertà della circolazione dei
+         personali delle persone                 vs             dati (connessa alla libertà di
+            fisiche (privacy)                                   iniziativa economica a livello
+                                                                             UE)
+                                   Altri diritto fondamentali
+                                    (libertà di informazione,
+                                   non-discirminaizone etc.)
+L’ambito di applicazione materiale (art. 2)
+1. Il presente regolamento si applica al trattamento interamente o
+parzialmente automatizzato di dati personali e al trattamento non
+automatizzato di dati personali contenuti in un archivio o destinati a
+figurarvi.
+Non si applica:
+• Trattamenti effettuati da una persona fisica per l'esercizio di attività a
+  carattere esclusivamente personale o domestico (cd. household
+  exemption)
+• Trattamenti effettuati da autorità competenti a fini di prevenzione ed
+  indagine contro minacce alla sicurezza pubblica e la prevenzione delle
+  stesse (Direttiva 2016/670)
+L’ambito di applicazione territoriale (art. 3)
+Il presente regolamento si applica al trattamento dei dati
+personali effettuato nell'ambito delle attività di uno
+stabilimento da parte di un titolare del trattamento o di un
+responsabile del trattamento nell'Unione,
+indipendentemente dal fatto che il trattamento sia effettuato
+o meno nell'Unione.
+Il presente regolamento si applica al trattamento dei dati
+personali di interessati che si trovano nell'Unione, effettuato
+da un titolare del trattamento o da un responsabile del
+trattamento che non è stabilito nell'Unione, quando le
+attività di trattamento riguardano:
+a) l'offerta di beni o la prestazione di servizi ai suddetti
+interessati nell'Unione, indipendentemente
+dall'obbligatorietà di un pagamento dell'interessato; oppure
+b) il monitoraggio del loro comportamento nella misura in cui
+tale comportamento ha luogo all'interno dell'Unione.
+Definizione di dato personale
+Art. 4(1) GDPR
+«dato personale»: qualsiasi informazione
+riguardante una persona fisica identificata o
+identificabile («interessato»); si considera
+identificabile la persona fisica che può essere
+identificata, direttamente o indirettamente, con
+particolare riferimento a un identificativo come il
+nome, un numero di identificazione, dati relativi
+all'ubicazione, un identificativo online o a uno o più
+elementi caratteristici della sua identità fisica,
+fisiologica, genetica, psichica, economica, culturale
+o sociale
+Il test di identificabilità
+Considerando 26
+ […] Per stabilire l'identificabilità di una persona è opportuno considerare
+tutti i mezzi (…) di cui il titolare del trattamento o un terzo può
+ragionevolmente avvalersi per identificare detta persona fisica direttamente
+o indirettamente.
+Per accertare la ragionevole probabilità di utilizzo dei mezzi per identificare
+la persona fisica, si dovrebbe prendere in considerazione l'insieme dei fattori
+obiettivi, tra cui:
+• i costi e il tempo necessario per l'identificazione
+• le tecnologie disponibili al momento del trattamento e gli sviluppi
+  tecnologici.
+Anonimizzazione v. Pseudonimizzazione
+Trattamento
+Art. 4(2) GDPR
+«qualsiasi operazione o insieme di operazioni,
+compiute con o senza l'ausilio di processi
+automatizzati e applicate a dati personali o
+insiemi di dati personali, come la raccolta, la
+registrazione, l'organizzazione, la strutturazione,
+la conservazione, l'adattamento o la modifica,
+l'estrazione, la consultazione, l'uso, la
+comunicazione mediante trasmissione, diffusione
+o qualsiasi altra forma di messa a disposizione, il
+raffronto o l'interconnessione, la limitazione, la
+cancellazione o la distruzione
+Soggetti del trattamento
+
+    Soggetto interessato: persona fisica alla quale si riferiscono i dati
+    personali.
+
+    Titolare del trattamento: la persona fisica o giuridica, l'autorità
+    pubblica, il servizio o altro organismo che, singolarmente o insieme ad
+    altri (contitolari), determina le finalità e i mezzi del trattamento di dati
+    persona
+
+    Responsabile del trattamento: la persona fisica o giuridica, l'autorità
+    pubblica, il servizio o altro organismo che tratta dati personali per conto del
+    titolare del trattamento
+I principi del trattamento (art. 5)
+1. I dati personali sono:
+a) trattati in modo lecito, corretto e trasparente nei confronti dell'interessato («liceità, correttezza e
+trasparenza»);
+b) raccolti per finalità determinate, esplicite e legittime, e successivamente trattati in modo che non sia
+incompatibile con tali finalità […] («limitazione della finalità»);
+c) adeguati, pertinenti e limitati a quanto necessario rispetto alle finalità per le quali sono trattati
+(«minimizzazione dei dati»);
+d) esatti e, se necessario, aggiornati; devono essere adottate tutte le misure ragionevoli per cancellare o
+rettificare tempestivamente i dati inesatti rispetto alle finalità per le quali sono trattati («esattezza»);
+e) conservati in una forma che consenta l'identificazione degli interessati per un arco di tempo non superiore al
+conseguimento delle finalità per le quali sono trattati; […] («limitazione della conservazione»);
+f) trattati in maniera da garantire un'adeguata sicurezza dei dati personali, compresa la protezione, mediante
+misure tecniche e organizzative adeguate, da trattamenti non autorizzati o illeciti e dalla perdita, dalla
+distruzione o dal danno accidentali («integrità e riservatezza»).
+2. Il titolare del trattamento è competente per il rispetto del paragrafo 1 e in grado di comprovarlo
+(«responsabilizzazione»).
+Liceità del trattamento (art. 6)
+1. Il trattamento è lecito solo se e nella misura in cui ricorre almeno una delle seguenti condizioni:
+a) l'interessato ha espresso il consenso al trattamento dei propri dati personali per una o più
+specifiche finalità;
+b) il trattamento è necessario all'esecuzione di un contratto di cui l'interessato è parte o
+all'esecuzione di misure precontrattuali adottate su richiesta dello stesso;
+c) il trattamento è necessario per adempiere un obbligo legale al quale è soggetto il titolare del
+trattamento;
+d) il trattamento è necessario per la salvaguardia degli interessi vitali dell'interessato o di un'altra
+persona fisica;
+e) il trattamento è necessario per l'esecuzione di un compito di interesse pubblico o connesso
+all'esercizio di pubblici poteri di cui è investito il titolare del trattamento;
+f) il trattamento è necessario per il perseguimento del legittimo interesse del titolare del
+trattamento o di terzi, a condizione che non prevalgano gli interessi o i diritti e le libertà
+fondamentali dell'interessato che richiedono la protezione dei dati personali, in particolare se
+l'interessato è un minore.
+Gli elementi del consenso
+• Libero: l’interessato abbia una scelta effettiva; manca se non può scegliere
+  o se si sente obbligato o se subirà conseguenze negative se non acconsente
+• Specifico: richiama il principio di limitazione delle finalità (determinate); il
+  consenso deve essere specifico per ogni finalità, cioè il soggetto deve poter
+  acconsentire o meno singolarmente ad ogni finalità; può coprire
+  trattamenti distinti purché abbiano la medesima finalità
+• Informato: richiama il principio di trasparenza e le sue modalità, nonché i
+  diritti di informazioni (artt. 13-14); gli elementi essenziali (identità del
+  titolare, finalità, categorie di dati, esercizio dei diritti, possibile processo
+  decisionale automatizzato e trasferimenti)
+• Inequivocabile: deve essere ovvio che l’interessato ha acconsentito al
+  particolare trattamento; necessario una dichiarazione scritta o orale o
+  comunque un’azione positiva
+Il consenso
+I problemi del consenso online
+Nei contenti online vi sono molti indici per dubitare sulla validità del consenso
+• Spesso il consenso non è libero: il consenso è vincolato all’ottenimento del servizio
+  anche quando il trattamento non è necessario per la sua erogazione, oppure è
+  influenzato dall’interfaccia del sito web
+• Spesso il consenso non è specifico: non possiamo fornire il consenso per alcuni
+  trattamenti e rifiutarlo per altri; dobbiamo fornire un consenso “impacchettato“
+• Spesso il consenso è scarsamente informato: forniamo il consenso senza leggere e
+  comprendere l’informativa privacy; inoltre le informazioni sono fornite in modo
+  vago ed ambiguo; non conosciamo che sono i soggetti che possono trattare i nostri
+  dati
+• Spesso il consenso non è inequivocabile: è fornito tramite il click su un banner o la
+  spunta di una casella, magari insieme alle condizioni di servizio, senza alcuna
+  certezza che tale azione rappresenti un’effettiva scelta dell’utente
+• Spesso è difficile revocare il consenso: sicuramente è più difficile rispetto a
+  fornirlo
+Il consenso per i dati sensibili
+È vietato trattare dati personali che rivelino l'origine
+razziale o etnica, le opinioni politiche, le convinzioni
+religiose o filosofiche, o l'appartenenza sindacale,
+nonché trattare dati genetici, dati biometrici intesi a
+identificare in modo univoco una persona fisica, dati
+relativi alla salute o alla vita sessuale o
+all'orientamento sessuale della persona.
+Il paragrafo 1 non si applica se si verifica uno dei
+seguenti casi:
+l'interessato ha prestato il proprio consenso
+esplicito al trattamento di tali dati personali per una
+o più finalità specifiche, salvo nei casi in cui il diritto
+dell'Unione o degli Stati membri dispone che
+l'interessato non possa revocare il divieto di cui al
+paragrafo 1;
+
+[…]
+I diritti dell’interessato
+• Il diritto ad essere informato (artt. 13-14)
+• Il diritto di accesso (art. 15)
+• Il diritto di rettifica (art. 16)
+• Il diritto di cancellazione (diritto all’oblio) (art. 17)
+• Il diritto alla limitazione del trattamento (art. 18)
+• Il diritto alla portabilità (art. 20)
+• Il diritto di opposizione (art. 21)
+• Il processo decisionale automatizzato, inclusa la profilazione (art. 22)
+Diritto ad essere informati (art. 13-14)
+• Concreta attuazione dei principi di trasparenza e correttezza
+• Si distingue il caso in cui i dati personali siano raccolti presso l’interessato (art.
+  13) e presso terzi (art. 14)
+• Nel momento in cui i dati sono ottenuti (informativa privacy) o entro un tempo
+  ragionevole, se raccolti presso terzi
+• Informazioni da fornire in modo chiaro e trasparente:
+    • L’identità e dati di contatto del titolare, e ove presente, del responsabile
+    • I dati di contatto del DPO
+    • Le finalità del trattamento e la relativa base giuridica
+    • I legittimi interessi perseguiti dal titolare (quando lett. f)
+    • Eventuali destinatari o categorie di destinatarie
+    • L’esistenza di un processo decisionale automatizzato e informazioni significative sulla logica
+      utilizzata, nonché le conseguenze previste
+    • …
+Diritto di accesso (art. 15)
+• Diritto di ottenere dal titolare la conferma o meno dell’esistenza di un
+  trattamento di dati personali riferiti all’interessato
+• In caso positivo di ottenerne l’accesso, con riferimento a particolari
+  informazioni
+• Funzionale all’esercizio di tutti i diritti di controllo (integrazione,
+  cancellazione, opposizione)
+• Cosa si può sapere à Finalità del trattamento, Categorie di dati personali
+  oggetti del trattamento, Destinatari o categorie di destinatari, Periodo di
+  conservazione dei dati o criteri per determinarlo; Esistenza di eventuali
+  diritti, tra cui diritto di proporre reclamo; origine dei dati; Se esiste un
+  processo decisionale automatizzato compresa la profilazione, la logica
+  utilizzata e le conseguenze previste da questo trattamento
+Diritto di rettifica (art. 16)
+• Diritto di ottenere la rettifica dei dati personali che lo riguardano
+  senza ingiustificato ritardo
+• Diritto a ottenere integrazione dei dati incompleti (nuovo!)
+• Espressione del principio di esattezza: le informazioni devono sempre
+  rappresentare la persona in modo corretto sia da un punto
+  qualitativo sia da un punto quantitativo
+• Limite: vale solo per le informazioni grezze, non anche le valutazioni
+  effettuate dal titolare
+Il diritto alla cancellazione (art. 17)
+1. L'interessato ha il diritto di ottenere dal titolare del trattamento la cancellazione dei dati personali che lo
+riguardano senza ingiustificato ritardo e il titolare del trattamento ha l'obbligo di cancellare senza ingiustificato
+ritardo i dati personali, se sussiste uno dei motivi seguenti:
+a) i dati personali non sono più necessari rispetto alle finalità per le quali sono stati raccolti o altrimenti trattati;
+b) l'interessato revoca il consenso su cui si basa il trattamento conformemente all'articolo 6, paragrafo 1,
+lettera a), o all'articolo 9, paragrafo 2, lettera a), e se non sussiste altro fondamento giuridico per il
+trattamento;
+c) l'interessato si oppone al trattamento ai sensi dell'articolo 21, paragrafo 1, e non sussiste alcun motivo
+legittimo prevalente per procedere al trattamento, oppure si oppone al trattamento ai sensi dell'articolo 21,
+paragrafo 2;
+…
+2. Il titolare del trattamento, se ha reso pubblici dati personali ed è obbligato, ai sensi del paragrafo 1, a
+cancellarli, tenendo conto della tecnologia disponibile e dei costi di attuazione adotta le misure ragionevoli,
+anche tecniche, per informare i titolari del trattamento che stanno trattando i dati personali della richiesta
+dell'interessato di cancellare qualsiasi link, copia o riproduzione dei suoi dati personali
+Google Spain
+Con la Sentenza Google Spain del 13 maggio 2014, la Corte di
+Giustizia dell’UE stabilisce che esiste un diritto alla
+cancellazione:
+• rispetto al gestore del motore di ricerca generalista
+• anche in caso di trattamento originariamente legittimo
+  quando
+• considerando i diritti e gli interessi in gioco
+• l’informazione non è più necessaria rispetto alle finalità per
+  le quali era stata originariamente raccolta
+Si approda ad un diritto alla deindicizzazione del motore nei
+confronti del motore di ricerca
+Diritto alla portabilità (art. 20)
+• Il diritto di ottenere una copia dei dati oggetto di trattamento in un
+  formato strutturato, d’uso comune e leggibile da dispositivo
+  automatico, e di poterli trasferire ad un altro titolare del trattamento
+  senza impedimenti
+• Il diritto di ottenere la trasmissione diretta dei dati personali da un
+  titolare del trattamento all'altro, se tecnicamente fattibile
+• Nuovo diritto, non presente nel Codice
+Diritto di opposizione (art. 21)
+• Il diritto di opporsi in qualsiasi momento, per motivi connessi alla sua
+  situazione particolare, al trattamento dei dati personali che lo
+  riguardano
+• Si applica solo nel caso dei trattamenti basati sull’esecuzione di un
+  compito di interesse pubblico (lett. e) e su legittimo interesse (lett. f)
+• Diverso da diritto alla cancellazione: opera solo in alcuni casi, ma sono
+  sufficienti gli interessi particolari del soggetto; semmai
+  consequenziali (prima opposizione, poi cancellazione)
+Processo decisionale automatizzato,
+inclusa la profilazione (art. 22)
+
+L’interessato ha il diritto di non essere sottoposto a una decisione
+basata unicamente sul trattamento automatizzato, compresa la
+profilazione, che produca effetti giuridici che lo riguardano o che incida
+in modo analogo significativamente sulla sua persona
+Profilazione
+Articolo 4, n. 4
+“qualsiasi forma di trattamento automatizzato di dati personali
+consistente nell'utilizzo di tali dati personali per valutare determinati
+aspetti personali relativi a una persona fisica, in particolare per
+analizzare o prevedere aspetti riguardanti il rendimento professionale,
+la situazione economica, la salute, le preferenze personali, gli interessi,
+l'affidabilità, il comportamento, l'ubicazione o gli spostamenti di detta
+persona fisica;”
+Eccezioni e salvaguardie
+Il divieto di processo decisionale automatizzato non si applica nel caso in cui la decisione:
+a) sia necessaria per la conclusione o l'esecuzione di un contratto tra l'interessato e un titolare del
+trattamento;
+b) sia autorizzata dal diritto dell'Unione o dello Stato membro cui è soggetto il titolare del
+trattamento, che precisa altresì misure adeguate a tutela dei diritti, delle libertà e dei legittimi
+interessi dell'interessato;
+c) si basi sul consenso esplicito dell'interessato.
+Se la decisione automatizzata si basa sui dati sensibili ex art. 9, può valere il consenso esplicito o i
+motivi di interesse pubblico rilevante (art. 9, comma 2, lett. g)
+
+Nei casi di cui al paragrafo 2, lettere a) e c) (deroga tramite contratto o consenso esplicito) e nel
+caso di decisioni automatizzate su dati sensibili, il titolare del trattamento attua misure appropriate
+per tutelare i diritti, le libertà e i legittimi interessi dell'interessato, almeno: il diritto di ottenere
+l'intervento umano da parte del titolare del trattamento, il diritto esprimere la propria opinione e il
+diritto di contestare la decisione.
+Diritto ad una spiegazione?
+• Art. 13, c. 2, lett. f): il titolare deve informare l’interessato dell'esistenza di
+  un processo decisionale automatizzato, compresa la profilazione di cui e in
+  tal caso, fornire informazioni significative sulla logica utilizzata, nonché
+  l'importanza e le conseguenze previste di tale trattamento per l'interessato
+   • Spiegazione ex ante generale sul funzionamento del processo decisionale
+• Considerando 71: In ogni caso, tale trattamento dovrebbe essere
+  subordinato a garanzie adeguate, che dovrebbero comprendere la specifica
+  informazione all'interessato e il diritto di ottenere l'intervento umano, di
+  esprimere la propria opinione, di ottenere una spiegazione della decisione
+  conseguita dopo tale valutazione e di contestare la decisione …”
+   • Spiegazione ex post sulla singola decisione presa attraverso un processo
+     decisionale automatico
+Principio di responsabilizzazione
+• Art. 5, c. 2
+Il titolare del trattamento è competente per il rispetto del paragrafo 1 e in
+grado di comprovarlo («responsabilizzazione»).
+
+• Art. 24, c.1
+Tenuto conto della natura, dell'ambito di applicazione, del contesto e delle
+finalità del trattamento, nonché dei rischi aventi probabilità e gravità diverse
+per i diritti e le libertà delle persone fisiche, il titolare del trattamento mette
+in atto misure tecniche e organizzative adeguate per garantire, ed essere in
+grado di dimostrare, che il trattamento è effettuato conformemente al
+presente regolamento. Dette misure sono riesaminate e aggiornate qualora
+necessario.
+La nuova filosofia del GDPR
+• Complessità e varietà dei trattamenti, difficoltà nel definire misure ex ante
+   valide per tutti
+• Il titolare del trattamento è la persona più competente per stabilire le
+   misure di sicurezza. Non più prescrizioni dettagliate, responsabilizzazione e
+   proattività del titolare, impegno per la conformità
+• Il ruolo dell’Autorità non è più preventivo, ma successivo (autorità di
+   controllo): viene meno la notifica del trattamento (si trasforma in data
+   breach) e il prior checking (si trasforma in consultazione preventiva solo
+   eventuale, ottica collaborativa non autorizzatoria)
+• All’interno di una cornice normativa che definisce la misura
+   dell’accountability (cioè il rischio) e i relativi strumenti (strumenti
+   dell’accountability)
+Il titolare diventa l’avamposto della tutela del diritto fondamentale alla
+protezione dei dati
+Protezione dei dati by design e by default
+(Art. 25)
+“1. Tenendo conto dello stato dell'arte e dei costi di attuazione, nonché della natura,
+dell'ambito di applicazione, del contesto e delle finalità del trattamento, come anche dei
+rischi aventi probabilità e gravità diverse per i diritti e le libertà delle persone fisiche
+costituiti dal trattamento, sia al momento di determinare i mezzi del trattamento sia
+all'atto del trattamento stesso il titolare del trattamento mette in atto misure tecniche e
+organizzative adeguate, quali la pseudonimizzazione, volte ad attuare in modo efficace i
+principi di protezione dei dati, quali la minimizzazione, e a integrare nel trattamento le
+necessarie garanzie al fine di soddisfare i requisiti del presente regolamento e tutelare i
+diritti degli interessati”.
+
+2. Il titolare del trattamento mette in atto misure tecniche e organizzative adeguate per
+garantire che siano trattati, per impostazione predefinita, solo i dati personali necessari per
+ogni specifica finalità del trattamento. Tale obbligo vale per la quantità dei dati personali
+raccolti, la portata del trattamento, il periodo di conservazione e l'accessibilità. In
+particolare, dette misure garantiscono che, per impostazione predefinita, non siano resi
+accessibili dati personali a un numero indefinito di persone fisiche senza l'intervento della
+persona fisica.”
+L’architettura giuridica dell’accountability
+• Poi, a seconda dell’identità del titolare del trattamento, delle
+  circostanze del trattamento, e del il rischio connesso, possono alcuni
+  obblighi eventuali. Questi sono:
+• La notifica del data breach (artt. 33-34)
+• La valutazione d’impatto sulla protezione dei dati (DPIA) (art. 35)
+• La consultazione preventiva (art. 36)
+• La designazione del DPO (artt. 37-39)
+Le Autorità di controllo (art. 51 GDPR)
+• Ogni Stato UE deve nominare un’Autorità di controllo. Negli Stati
+  federali (come in Germania e Spagna) ogni territorio ha in più una
+  propria Autorità
+• Sono Autorità pubbliche indipendenti incaricate di sorvegliare
+  l’applicazione del GDPR al fine di:
+   1. tutelare i diritti e le libertà fondamentali delle persone fisiche con riguardo
+      al trattamento
+   2. e di agevolare la libera circolazione dei dati personali nell’Ue
+• Le Autorità di controllo in materia di protezione dei dati personali
+  sono le uniche Autorità indipendenti previste dai Trattati europei
+Il Comitato europeo per la protezione
+dati (CEPD)
+• Composto da un “figura di vertice” dell’Autorità di
+  ciascun Stato membro e dal GEPD; elegge 1 presidente
+  tra i suoi membri e 2 vice con mandato 4 anni
+• Compiti di estrema rilevanza:
+   • es., consulenza alla Commissione, linee guida, raccomandazioni
+     e best practices su applicazione GDPR, accreditamento
+     organismi certificazione, parere nella decisioni di adeguatezza
+• Come regola generale, decide a maggioranza semplice
+  dei membri
+Altre disposizioni importanti
+• CAPO V - Trasferimenti di dati personali verso paesi terzi o
+  organizzazioni internazionali
+• CAPO VII - Cooperazione e coerenza
+• CAPO VIII - Mezzi di ricorso, responsabilità e sanzioni
+• CAPO IX - Disposizioni relative a specifiche situazioni di trattamento
+La responsabilità dell’ISP e delle
+       piattaforme online
+             Lezione 05.2
+Chi sono gli intermediari di Internet
+• I fornitori di accesso a Internet e di servizi di Internet (Internet access
+  and service providers)
+• I fornitori di servizi di web hosting e di elaborazione dati (data
+  processing and web hosting providers)
+• I motori di ricerca (Internet search engines and portals)
+• I social network e (social networked platforms)
+• I portali del commercio elettronico (marketplaces)
+• Gli intermediari della pubblicità (advertising networks)
+• I sistemi di pagamento via Internet (Internet payment systems)
+•…
+Internet access provider
+2000-2020: Diverse ere di Internet
+Quid iuris?
+ 1. La responsabilità diretta (civile o addirittura penale) dell’utente per
+    contenuti illeciti (es. violazione copyright, contenuti offensivi,
+    istigazione a delinquere etc.)
+ 2. La responsabilità indiretta dell’ Internet service provider per i
+    contenuti pubblicati o le attività illecite effettuate dagli utenti,
+    destinatari del servizio intermediario
+
+ Nelle prossime slide guarderemo alla seconda fattispecie
+Come regolare la responsabilità dell’ISP?
+ • Opzioni di regolamentazione per gli intermediari che abilitano
+   contenuti/attività di terzi:
+    • Immunità da sanzioni e ingiunzioni
+    • Immunità da sanzioni, assoggettamento a ingiunzioni
+    • Responsabilità per negligenza (responsabilità civile)
+    • Responsabilità oggettiva
+ • Problema chiave: Vogliamo una libertà di parola anonima e illimitata
+   su Internet? Quali pro e quali i contro?
+Le ragioni per imporre una responsabilità
+• Assicurare che le vittime di comportamenti illeciti possano essere
+  risarciti. Infatti, per il danneggiato è difficile ottenere il risarcimento
+  dal soggetto che ha posto in essere la violazione (egli potrebbe essere
+  anonimo o non raggiungibile, insolvibile)
+• Potrebbe indurre la piattaforma a porre fine o mitigare le
+  conseguenze del comportamento illecito (ad esempio rimuovendo
+  contenuti illeciti, o bloccando l’accesso)
+• Potrebbe addirittura incentivare la piattaforma ad impedire
+  comportamenti illeciti (ad esempio escludendo taluni soggetti dalla
+  piattaforma, implementando misure di sicurezza).
+Le ragioni per un’immunità
+• Permettere loro di sopravvivere e di crescere e sostenere l'economia
+  di Internet → responsabilità = costo
+• Per preservare gli attuali modelli di business e i modelli di utilizzo,
+  specialmente quelli gratuiti → non avrebbero altrimenti la possibilità
+  di sostenere eventuali sanzioni
+• Per proteggere le libertà fondamentali su Internet, come ad es.,
+  libertà di espressione, associazione, iniziativa economica,
+  partecipazione politica, ecc.
+La censura collaterale
+La regolare degli ISP induce questi ultimi a regolamentare i propri
+utenti
+• Per evitare sanzioni o ottenere vantaggi, i provider possono bloccare,
+  censurare o controllare in altro modo i discorsi degli utenti. Il loro
+  controllo (censura) può
+   • prevenire attività illegali o dannose,
+   • ma anche limitare l'espressione legittima, senza contraddittorio e senza
+     controllo pubblico.
+• Ad esempio Motori di ricerca che attuano il diritto all'oblio; Codice di
+  condotta per hate speech online, ecc.
+Communication Decency Act (1996)
+Section 230
+I fornitori di servizi informatici interattivi
+• non sono responsabili delle informazioni fornite da un altro
+  fornitore di contenuti (s.c. “safe harbour”)
+• Mantengono la loro immunità quando agiscono in buona fede
+  per limitare l'accesso a materiali discutibili (s.c. “clausola del
+  buon samaritano”).
+Applicazione:
+• Immunità totale da responsabilità e ingiunzioni
+• Eccezioni limitate (ad es. per il revenge porn e la discriminazione)
+Digital Millennium Copyright Act (1998)
+Il fornitore che elabora contenuti in violazione non è
+responsabile se
+-non è a conoscenza del fatto che il materiale è stato violato
+-non riceve un beneficio economico dall'attività di violazione
+-Alla notifica della presunta violazione rimuove rapidamente il
+contenuto o ne blocca l'accesso (“notice and take down”)
+Notice and takedown
+Fasi della procedura
+1. Il presunto titolare del diritto notifica la violazione al provider
+2. Il provider blocca l'accesso e trasmette la notifica all'utente
+    (uploader)
+3. Se l'utente invia una contro-notifica, il provider informa il titolare
+    del diritto
+4. Se il titolare del diritto non avvia la causa, il provider abilita di
+    nuovo l'accesso di nuovo
+• Ruolo neutrale del provider
+La legge sugli intermediari nell'UE
+• Direttiva sul commercio elettronico (2000/31/CE), Art. 12-
+  16.
+  • In Italia: d.lgs. 70/2003, art. 14-18
+• Ambito di applicazione ristretto a 3 categorie di «internet
+  service provider» (ISP):
+  • Art. 12, Mere conduit (trasmissione in rete)
+  • Art. 13, Caching (memorizzazione temporanea dei dati)
+  • Art. 14, Hosting (memorizzazione delle informazioni fornite da un
+    destinatario del servizio)
+• Motori di ricerca? Social network?
+Mero trasporto e memorizzazione temporanea
+Mero trasporto (art. 12)
+• trasmettere, su una rete di comunicazione, informazioni fornite da un destinatario, o nel fornire semplicemente un
+  accesso alla rete di comunicazione
+• Immune quando: (a) non da origine alla trasmissione, (b) non selezioni il destinatario della trasmissione e (c) non
+  selezioni né modifichi le informazioni trasmesse.
+Memorizzazione temporanea (art. 13)
+• trasmettere, su una rete di comunicazione, informazioni fornite da un destinatario, ma il prestatore provvede alla
+  memorizzazione automatica, intermedia e temporanea di tali informa- zioni al solo scopo di renderne più efficace il
+  successivo inoltro ad altri destinatari che ne facciano richiesta
+• Immune quando: (a) non modifichi le informazioni; (b) si conformi alle condizioni di accesso alle informazioni; (c) si
+  conformi alle norme di aggiornamento delle informazioni, indicate in un modo ampiamente riconosciuto e
+  utilizzato dalle imprese del settore; (d) non interferisca con l’uso lecito di tecnologia ampiamente riconosciuta e
+  utilizzata nel settore per ottenere dati sull’impiego delle informazioni; (e) agisca prontamente per rimuovere le
+  informazioni che ha memorizzato, o per disabilitarne l’accesso, non appena venga effettivamente a conoscenza del
+  fatto che le informazioni sono state rimosse dal luogo dove si trovavano inizialmente sulla rete, o che l’accesso alle
+  informazioni è stato disabilitato, oppure che un organo giurisdizionale o un’autorità amministrativa ne ha disposto
+  la rimozione o la disabilitazione.
+Memorizzazione di informazioni («Hosting»)
+(art. 14)
+Si tratta di un servizio consistente nella memorizzazione di informazioni, fornite da un destinatario e su
+sua richiesta, da parte di un prestatore.
+1. […] il prestatore non sia responsabile delle informazioni memorizzate a richiesta di un destinatario del
+servizio, a condizione che detto prestatore:
+      a) non sia effettivamente al corrente del fatto che l'attività o l'informazione è illecita e, per quanto
+      attiene ad azioni risarcitorie, non sia al corrente di fatti o di circostanze che rendono manifesta
+      l'illegalità dell'attività o dell'informazione, o
+      b) non appena al corrente di tali fatti, agisca immediatamente per rimuovere le informazioni o per
+      disabilitarne l'accesso.
+2. Il paragrafo 1 non si applica se il destinatario del servizio agisce sotto l'autorità o il controllo del
+prestatore.
+3. Il presente articolo lascia impregiudicata la possibilità, per un organo giurisdizionale o un'autorità
+amministrativa, in conformità agli ordinamenti giuridici degli Stati membri, di esigere che il prestatore
+ponga fine ad una violazione o la impedisca nonché la possibilità, per gli Stati membri, di definire
+procedure per la rimozione delle informazioni o la disabilitazione dell'accesso alle medesime.
+Assenza dell'obbligo generale di sorveglianza
+- Art. 15 Direttiva
+1. Nella prestazione dei servizi di cui agli articoli 12, 13 e 14, gli Stati membri non
+impongono ai prestatori un obbligo generale di sorveglianza sulle informazioni che
+trasmettono o memorizzano né un obbligo generale di ricercare attivamente fatti o
+circostanze che indichino la presenza di attività illecite.
+2. Gli Stati membri possono stabilire che i prestatori di servizi della società
+dell'informazione siano tenuti ad informare senza indugio la pubblica autorità
+competente di presunte attività o informazioni illecite dei destinatari dei loro
+servizi o a comunicare alle autorità competenti, a loro richiesta, informazioni che
+consentano l'identificazione dei destinatari dei loro servizi con cui hanno accordi di
+memorizzazione dei dati.
+Questioni irrisolte
+• I provider sono responsabili quando sanno che le informazioni sono
+  sulla piattaforma, ma non sanno che è illegale? Si può ragionare in
+  termini di conoscibilità (la piattaforma era tenuta a conoscere)?
+• Cosa fare in caso di dubbi sull'illegalità? Manca una chiara procedura
+  di «notice and takedown», eventuale contestazione e rimozione
+  (come negli USA per la violazioni del copyright)
+• Distinzioni giurisprudenziali tra host provider «passivi» e «attivi»:
+  Immunità valida anche per hosting che svolgono un’attività di
+  selezione, filtraggio, e organizzazione dei contenuti?
+Garantire immunità è ancora un approccio
+giusto?
+Strutture di mercato – motori di ricerca
+Strutture di mercato – social media
+Il mercato delle idee e libertà di espressione
+Nuovo modello di produzione e distribuzione
+dell'informazione, il cosiddetto Web 2.0, in cui il pubblico
+partecipa attivamente alla creazione di contenuti attraverso
+blog, wiki, repository e social network. Un nuovo poter in
+mano agli utenti e i cittadini.
+Si afferma l’idea virtuosa di Internet e delle sue comunità come
+“marketplace of ideas”: tutti sono liberi di esprimersi e liberi di
+informarsi; in una dinamica competitiva, ciò determina che le
+migliori idee e la migliore informazione prevale su quella non
+di qualità
+Algoritmi e contenuti
+
+• Si crea nuovamente una
+  centralizzazione in mano a nuovi
+  intermediari, le piattaforme per la
+  condivisione di informazioni che,
+  grazie all’effetto di rete, godono di
+  una posizione dominante e
+  diventano i guardiani dei flussi
+  informativi
+• I dati degli utenti (produttori e
+  consumatori di contenuti) e i
+  relativi strumenti di elaborazione
+  (analytics, IA) mediano il processo
+  tra creazione dell’informazione,
+  circolazione e consumo.
+Profilazione e
+personalizzazione
+
+• I dati personali degli utenti vengono
+  utilizzati per creare profili su gusti,
+  opinioni, tendenze. Le modalità di
+  indirizzamento e visualizzazione dei
+  contenuti sono influenzati dal profilo
+• Retorica della rilevanza vs. interesse
+  nell’attenzione/modifica
+  comportamentale (economica
+  dell’attenzione)
+Le bolle filtro e la
+polarizzazione
+• I cittadini tendono ad essere esposti a
+  contenuti e informazioni che li hanno
+  attratto o soddisfatto in bassato o che
+  abbiano soddisfatto profili simili in
+  passato
+• Questo generale un effetto di rinforzo
+  rispetto alle proprie idee. Si parla di
+  bolle “filter bubbles”
+• Rischio di deteriorare il dibattito
+  pubblico
+Le attività e i contenuti illeciti degli utenti
+online
+• Privacy e reputazione
+• Contenuti in violazione del
+  diritto d’autore
+• Cyberbullismo e revenge
+  porn
+• Violenza, razzismo,
+  terrorismo, hate speech
+• Disinformazione e fake
+  news
+ Le «fake news»
+
+
+
+
+• Solo 10% delle notizie di alta
+  qualità proviengono dai social
+  media
+• Il 40% dei creatori/lettori di "fake   Come si sono informati gli utenti dei social nel 2016 in
+  news" si informano sui social          US
+  media
+La moderazione
+automatica
+• Umano
+   • Lavoro umano dei fact checker
+   • Industria del fact-checking in
+     crescita
+• Solo macchina
+   • Intelligenza Artificiale
+• Lavoro di squadra uomo-
+  macchina
+   • la macchina identifica le notizie
+     potenzialmente false
+   • doppio controllo da parte
+     dell'uomo
+Da nuovi poteri
+Gli intermediari su Internet (Google, Facebook, Amazon ecc.):
+• Hanno enormi risorse economiche e godono di una posizione dominante in
+  mercati monopolistici
+• Sono i guardiani delle informazioni su Internet e garantiscono l’effettivo
+  godimento dei diritti di informazione
+• Si connotano per un ruolo attivo attraverso la selezione e personalizzazione
+  (benché automatizzata) dei contenuti
+• Le loro piattaforme contribuiscono al formarsi dell'opinione pubblica
+  (anche attraverso hate speech e fake news)
+• Dispongono di potenti strumenti automatizzati (IA) per rilevare e
+  classificare i materiali, processare big data, monitorare gli utenti ecc.
+Nuova responsabilità?
+• La Direttiva sugli abusi sui minori del 2011 prevede l'obbligo di rimuovere e
+  bloccare l'accesso ai siti web che contengono o diffondono abusi sessuali su
+  minori e pornografia infantile.
+• La Direttiva sul terrorismo del 2017 prevede obblighi simili contro l'incitamento
+  pubblico online ad atti di terrorismo.
+• La Direttiva del 2018 che rivede la direttiva sui servizi di media audiovisivi
+  include nuovi obblighi per le piattaforme di condivisione video per affrontare i
+  hate speech e contenuti violenti.
+• La Direttiva sul diritto d'autore nel mercato unico digitale del 2019 stabilisce che
+  l'esenzione di responsabilità per i fornitori di hosting non copre la comunicazione
+  non autorizzata o la messa a disposizione del pubblico di materiale caricato dai
+  loro utenti e stabilisce obblighi per tali fornitori (tra cui l'obbligo di compiere il
+  massimo sforzo per attuare gli accordi con i titolari dei diritti e rimuovere e
+  impedire l'accesso alle opere da loro identificate).
+La legge sui servizi digitali (DSA)
+
+
+
+            1998
+Il regime di responsabilità
+• Rimangono inalterate le norme sulla responsabilità indiretta per gli
+  ISP (mere conduit, caching, hosting) basata su conoscenza e
+  attivazione per rimozione successiva dell’attività/contenuto illecito
+• Rimane l’assenza di un obbligo generale di sorveglianza sulle
+  informazioni
+• Viene introdotta la cd. “clausola del buon samaritano”: gli ISP non
+  sono considerati inammissibili all’esenzione di responsabilità per il
+  solo fatto di svolgere, in buona fede e in modo diligente, indagini
+  volontarie di propria iniziativa o di adottare altre misure volte a
+  individuare, identificare e rimuovere contenuti illegali o a disabilitare
+  l'accesso agli stessi
+La nuova regolazione della moderazione
+• «moderazione dei contenuti»: le attività, automatizzate o meno, svolte dai
+  prestatori di servizi intermediari con il fine, in particolare, di individuare,
+  identificare e contrastare contenuti illegali e informazioni incompatibili con le
+  condizioni generali, forniti dai destinatari del servizio, comprese le misure
+  adottate che incidono sulla disponibilità, sulla visibilità e sull'accessibilità di tali
+  contenuti illegali o informazioni, quali la loro retrocessione, demonetizzazione o
+  rimozione o la disabilitazione dell'accesso agli stessi, o che incidono sulla capacità
+  dei destinatari del servizio di fornire tali informazioni, quali la cessazione o la
+  sospensione dell'account di un destinatario del servizio;
+• «contenuto illegale»: qualsiasi informazione che, di per sé o in relazione a
+  un'attività, tra cui la vendita di prodotti o la prestazione di servizi, non è conforme
+  al diritto dell'Unione o di qualunque Stato membro conforme con il diritto
+  dell'Unione, indipendentemente dalla natura o dall'oggetto specifico di tale
+  diritto;
+Gli obblighi di diligenza temperati
+La definizione di «piattaforma»
+• Considerando 13: «occorre distinguere, all'interno della categoria più
+  ampia dei prestatori di servizi di memorizzazione di informazioni (hosting)
+  definita nel presente regolamento, la sottocategoria delle piattaforme
+  online. Le piattaforme online, quali le reti sociali o le piattaforme online
+  che consentono ai consumatori di concludere contratti a distanza con
+  operatori commerciali, dovrebbero essere definite come prestatori di
+  servizi di memorizzazione di informazioni che non solo memorizzano
+  informazioni fornite dai destinatari del servizio su richiesta di questi
+  ultimi, ma diffondono anche tali informazioni al pubblico, su richiesta dei
+  destinatari del servizio.….»
+• Considerando 14: «Il concetto di «diffusione al pubblico» utilizzato nel
+  presente regolamento dovrebbe implicare la messa a disposizione di
+  informazioni a un numero potenzialmente illimitato di persone…»
+La designazione come VLOP
+Lo scorso 25 aprile la Commissione ha
+designato le seguenti piattaforme/motori di
+ricerca come di dimensioni molto grandi
+• Very Large Online Platforms (VLOP): Alibaba
+  AliExpress, Amazon Store, Apple AppStore,
+  Booking.com, Facebook, Google Play, Google
+  Maps, Google Shopping, Instagram, LinkedIn,
+  Pinterest, Snapchat, TikTok, Twitter,
+  Wikipedia, YouTube, Zalando
+• Very Large Online Search Engines (VLOSE):
+  Bing, Google Search
+Trasparenza e relazione annuale
+Tutti gli ISP
+• Trasparenza in T&C su misure e
+  strumenti utilizzati ai fini della
+  moderazione dei contenuti, compresi il
+  processo decisionale algoritmico
+• Relazione annuale, almeno una volta
+  all’anno, una relazione anche in formato
+  machine-readable sulle attività di
+  moderazione dei contenuti
+Notice and action + motivazione
+                    Tutti gli hosting providers
+                    • Meccanismo di notice and action
+                      che consente a qualsiasi utente di
+                      presentare notifiche precise
+                      motivate sulla presenza di presunti
+                      contenuti illegali
+                    • Obbligo di motivazione su
+                      rimozione o altro tipo di misura sul
+                      contenuto
+Gestione reclami e segnalatori attendibili
+Per tutte le piattaforme online
+• Sistema interno di gestione dei
+  reclami sia per l’utente che ha creato il
+  contenuto sia per l’utente notificante
+• Risoluzione extra-giudiziale delle
+  controversie per gli utenti i cui
+  contenuti sono stati rimossi o
+  disabilitati
+• Regime di priorità per i casi sottoposti
+  dai cd. «segnalatori attendibili»
+  riconosciuti dal Coordinatore dei
+  servizi digitali nazionale
+Valutazione dei rischi
+Piattaforme/motori di ricerca molto grandi
+• Valutazione del rischio sistemico derivanti dalla
+  progettazione o dal funzionamento del loro servizio
+  e dei suoi relativi sistemi, compresi i sistemi di
+  raccomandazione e moderazione dei contenuti
+Tra i rischi sistemici sono ricompresi:
+• la diffusione di contenuti illegali;
+• eventuali effetti negativi, attuali o prevedibili, per
+  l'esercizio dei diritti fondamentali
+• eventuali effetti negativi, attuali o prevedibili, sul
+  dibattito civico e sui processi elettorali, nonché
+  sulla sicurezza pubblica;
+Misure di attenuazione
+Tra cui:
+a) l'adeguamento della progettazione, delle
+caratteristiche o del funzionamento dei loro
+servizi, anche delle loro interfacce online;
+b) l'adeguamento delle condizioni generali e
+la loro applicazione;
+c) l'adeguamento delle procedure di
+moderazione dei contenuti
+Accesso ai dati e controllo
+• Art. 34: I fornitori di piattaforme online di dimensioni molto grandi e
+  di motori di ricerca online di dimensioni molto grandi forniscono al
+  coordinatore dei servizi digitali del luogo di stabilimento o alla
+  Commissione, su loro richiesta motivata ed entro un termine
+  ragionevole specificato in detta richiesta, l'accesso ai dati necessari
+  per monitorare e valutare la conformità al presente regolamento
+• Su richiesta motivata del coordinatore dei servizi digitali del luogo di
+  stabilimento, i fornitori di piattaforme online di dimensioni molto
+  grandi o di motori di ricerca online di dimensioni molto grandi
+  forniscono, entro un termine ragionevole specificato nella richiesta,
+  l'accesso ai dati ai ricercatori abilitati che soddisfano i requisiti di cui
+  al paragrafo 8 …
+Applicazione
+• Designazione di un coordinatore dei servizi digitali a livello nazionale (autorità competenti) In
+  Italia, AGCOM
+• Art. 51: Poteri del DSC: richiedere informazioni e spiegazioni, effettuare ispezioni, accedere ai dati
+  di VLOP e VLOSE, emettere ordini di cessazione delle infrazioni, imporre multe e sanzioni, valutare
+  i reclami.
+
+• Art. 52: Sanzioni. Ammende fino al 6% del fatturato annuo; sanzioni periodiche fino al 5% del
+  fatturato o del reddito medio giornaliero.
+
+• Art. 53 Diritto degli utenti interessati a presentare un reclamo
+• Artt. 57-60 Regole sul coordinamento delle indagini e sui meccanismi di coerenza tra le autorità
+  nazionali di vigilanza.
+• Art 61 Istituzione di un Consiglio europeo per i servizi digitali
+• Art. 65 - La Commissione ha una competenza specifica e centralizzata per la supervisione e
+  l'applicazione (ammende e sanzioni) nel caso di VLOP e VLOSE.
+Iniziative di enforcement a livello UE
+Commercio elettronico e
+   mercati digitali
+         Lezione 05.3
+Highlights
+• Dal commercio elettronico ai mercati digitali
+• I contraenti deboli tra utente consumatore e utenete business
+• Il Digital Services Act e i contenuti commerciali
+• Il Digital Markets Act tra tutela della concorrenza e protezione del
+  consumatore
+Il commercio elettronico
+(COM (97) 157) “lo svolgimento di attività commerciali e di transazioni
+per via elettronica e comprende attività diverse quali:
+• la commercializzazione di beni e servizi per via elettronica;
+• la distribuzione online di contenuti digitali;
+• l’effettuazione per via elettronica di operazioni finanziarie e di borsa;
+• gli appalti pubblici per via elettronica ed altre procedure di tipo
+  transattivo delle Pubbliche Amministrazioni”.
+I tipi di commercio elettronico
+A seconda dell’attività che si svolge online:
+• diretto, se non solo la conclusione del contratto, ma anche
+  l’esecuzione (ed eventualmente il pagamento) avvengono online.
+• indiretto, se la conclusione del contratto avviene attraverso strumenti
+  digitali, ma l’esecuzione avviene in maniera tradizionale (es.
+  spedizione successiva del bene).
+
+• A seconda dei soggetti si può avere e-commerce: B2B, B2C, G2C, G2B,
+  G2G
+Questioni giuridiche del commercio digitale
+• transnazionalità (legge applicabile, foro
+  competente);
+• disciplina dei contratti conclusi attraverso    Diritto
+                                                   civile
+  strumenti informatici e telematici;            nazionale
+                                                                  Diritto dei
+• pagamenti elettronici;                                         consumatori
+                                                 Diritto della
+• tutela del consumatore e del concorrente;      concorrenz
+                                                                     (UE)
+
+• responsabilità civile/penale dei soggetti            a
+
+  coinvolti;
+• risoluzione delle controversie;
+La Direttiva CE 2000/33 sul commercio
+elettronico
+Stabilisce norme armonizzate relative a varie questioni riguardanti il
+commercio elettronico.
+• Obblighi informativi su identità, contatto del fornitore, prezzo del
+  servizio
+• Trasparenza delle comunicazioni commerciali, include le mail non-
+  sollecitate (“spam”)
+• Equivalenza giuridica tra contratto elettronico e non
+
+• Responsabilità dei fornitori di servizi intermediari, adesso nel DSA (vd
+  Lezione 5.2)
+Le norme a tutela del consumatore digitale
+• Consumatore come contraente debole
+• Dagli anni ‘80, l’UE promuove la tutela dei consumatori attraverso
+  alcune direttive
+• Le norme riguardano i rapporti tra:
+   • Professionisti
+   • Consumatori (cioè, la “persona fisica che agisce per scopi estranei all’attività
+     imprenditoriale, commerciale, artigianale o professionale eventualmente
+     svolta”)
+• Il legislatore italiano consolida la disciplina nel codice del consumo
+  (d.lgs 206/2005)
+Le clausole vessatorie
+• Direttiva 93/13/CEE, in Italia art. 33 e ss, cod. Cons
+• Sono nulle clausole vessatorie nei contratti con i consumatori, cioè
+  quelle che pur non contrarie a buona fede, determinano a carico del
+  consumatore un significativo squilibrio dei diritti e degli obblighi de-
+  rivanti dal contratto (art. 33 cod. cons)
+• Non sono da considerarsi vessatorie le clausole che siano state
+  oggetto di trattativa individuale fra il professionista e il consumatore
+Esempi di clausole vessatorie
+1. escludere o limitare la responsabilità del professionista in caso di
+   morte o danno alla persona del consumatore, risultante da un fatto
+   o da un’omission del professionista;
+2. escludere o limitare le azioni del consumatore nei confronti del
+   professionista o di un’altra parte in caso di inadempimento totale o
+   parziale o di adempimento inesatto da parte del professionista;
+3. prevedere l’adesione del consumatore come estesa a clausole che
+   non ha avuto, di fatto, la possibilità di conoscere prima della
+   conclusione del contratto.
+•…
+L’IA per le clausole vessatorie
+Le pratiche scorrette
+• Direttiva 2005/29/CE (in Italia, artt. 20 e ss, cod. cons)
+• Una pratica commerciale è scorretta se è contraria alla diligenza
+  professionale, ed è falsa o idonea a falsare in misura apprezzabile il
+  comportamento economico, in relazione al prodotto, del
+  consumatore medio che essa raggiunge o al quale è diretta o del
+  membro medio di un gruppo qualora la pratica commerciale sia
+  diretta a un determinato gruppo di consumatori
+• Sono vietate anche le pratiche ingannevoli (cioè quelle che si basano
+  su informazioni false o su omissione di informazioni) e quelle
+  aggressive (cioè quelle che usano coercizione e influenza indebita sul
+  consumatore)
+Esempi di pratiche scorrette ingannevoli
+• e-bis) per i prodotti offerti su mercati online, se il terzo che offre i prodotti
+  è un professionista o meno, sulla base della dichiarazione del terzo stesso
+  al fornitore del mercato online.
+• m-bis) fornire risultati di ricerca in risposta a una ricerca online del
+  consumatore senza che sia chiaramente indicato ogni eventuale annuncio
+  pubblicitario a pagamento o pagamento specifico per ottenere una
+  classificazione migliore dei prodotti all'interno di tali risultati;
+• bb-quater) inviare, o incaricare un'altra persona giuridica o fisica di inviare,
+  recensioni di consumatori false o falsi apprezzamenti o di fornire false
+  informazioni in merito a recensioni di consumatori o ad apprezzamenti sui
+  media sociali, al fine di promuovere prodotti.
+Contratti a distanza: obblighi informativi
+Direttiva 2011/83/UE (in Italia, art. 49 e 49-bis, cod. Cons)
+Obblighi per i contratti con i consumatori stipulati a distanza (art. 49)
+• Caratteristiche dei beni e serivzi
+• Identità professionista
+• Prezzo e modalità di pagamento, inclusa “l'informazione che il prezzo è
+  stato personalizzato sulla base di un processo decisionale automatizzato”
+• ….
+Obblighi per i contratti con i consumatori stipulati a distanza (art. 49-bis)
+• Parametri che determinano la classificazione delle offerte
+Contratti a distanza: recesso (art. 52)
+E’ introdotto il diritto di recesso (ripensamento) del consumatore entro
+14 giorni dalla data di conclusione del contratto
+• senza alcuna motivazione e senza sostenimento di costi diversi da
+  quelli di riconsegna dei beni eventualmente ricevuti
+Quando il bene è digitale: “il professionista si astiene dall'utilizzare
+qualsiasi contenuto, diverso dai dati personali, che è stato fornito o
+creato dal consumatore durante l'utilizzo del contenuto digitale o del
+servizio digitale fornito dal professionista, salvo quando tale
+contenuto”
+Commercio elettronico e intermediari di
+Internet
+Oggi il commercio elettronico ha luco, prevalentemente ma non
+esclusivamente, grazie agli intermediari di Internet e piattaforme.
+• Marketplaces
+• Sistemi di pagamento
+• Motori di ricerca
+• Social media
+•…
+Diversi business model
+• L’accesso a Internet, ai servizi di web e cloud hosting vengono
+  di regola prestati a fronte di un corrispettivo.
+• L’uso dei motori di ricerca e l’accesso alle piattaforme
+  partecipative è fornito di regola gratuitamente, mentre gli
+  introiti degli intermediari si basano sulla pubblicità, sulla
+  raccolta di dati personali, sulla vendita di prodotti accessori o
+  servizi premium.
+• In alcuni casi, si basano su donazioni di individui e istituzioni
+  (es. Wikipedia).
+Effetto di rete
+Mercati a
+due lati
+  Mercati a due lati
+• Nei servizi gratuiti basati sulla pubblicità, ci troviamo di fronte a
+  mercati a due lati (two-sided markets):
+   • Diversi gruppi di “clienti”: utenti del sistema e inserzionisti
+   • Interdipendenza + conflitto di interessi
+Big data
+Ricavi
+pubblicitari:
+Google,
+Facebook e
+gli altri
+Amazon
+e gli altri
+ Potere di
+mercato nei
+servizi cloud
+Integrazione verticale
+Asimmetria informativa
+• Chi fornisce un prodotto informatico normalmente
+  ha maggiori conoscenze di chi lo utilizza:
+   • possible pregiudizio per l’utente, obblighi di
+     informazione
+   • cattivo funzionamento dei mercati: se l’utente non può
+     discriminare i prodotti scadenti tendono a prevalere in
+     quanto più economici (il “mercato dei limoni”, Akerlof)
+• Lato consumatore: acquistare di prodotti di bassa
+  qualità, condisioni sub-ottimale di privacy,
+  disservizi
+• Lato utente business: incapacità di contattare
+  potenziali clienti, aumentando i costi operativi e
+  riduzuione competitività
+Effetto lock-in
+• Tecnologie proprietarie o piattaforme chiuse (cd.
+  walled garden) creano dipendenza nei
+  consumatori e difficoltà a cambiare provider
+   • Apple con l'ecosistema iOS: gli utenti sono vincolati
+     attraverso app e servizi esclusivi.
+   • Microsoft con il formato di file docx: la compatibilità
+     spinge l'uso di Microsoft Office.
+   • Amazon con Kindle: i libri acquistati sono legati ai
+     dispositivi Kindle.
+• Impatto sui consumatori: Difficoltà nel cambiare
+  piattaforma o servizio.
+• Impatto sulla concorrenza: Riduzione della
+  diversità e ostacoli all'entrata per nuovi
+  competitor.
+Dai contratti alla pubblicità
+                 Pubblicità digitale ovunque….
+
+• Pubblicità su display e video
+• Pubblicità di ricerca
+• Pubblicità sui social media
+• Pubblicità in-app
+• Pubblicità conversazionale (Chatbot)
+Pubblicità, privacy e dark patterns
+• I dark pattern sono interfacce progettate per spingere e fuorviare
+  deliberatamente gli utenti a "fare cose che non vorrebbero fare, ma
+  che avvantaggiano l'azienda in questione" contro gli interessi degli
+  utenti.
+Il targeting psicologico: manipolazione?
+Raccomandazioni
+Un sistema di raccomandazione
+è un software di filtraggio dei
+contenuti che crea delle
+raccomandazioni personalizzate
+specifiche per l’utente così da
+aiutarlo nelle sue scelte.
+
+• contenuti utili o manipolazione
+  commerciale?
+Pubblicità e consenso informato
+                       • La pubblicità implica il trattamento di
+                         dati personali
+                       • Si applica la normativa sulla privacy
+                         elettronica e il GDPR, per cui è
+                         necessario una base giuridica e il
+                         rispetto dei principi del trattamento
+                       • La Corte di giustizia UE (Caso Meta,
+                         2023) ha stabilito che il consenso
+                         dell’interessato può essere l’unica
+                         condizione di liceità ammissibile per il
+                         trattamento con finalità di pubblicità
+                         mirata.
+                       • Il consenso deve essere informato,
+                         libero, specifico e manifesto.
+Pubblicità e obblighi informativi
+Articolo 26
+I fornitori di piattaforme online che presentano pubblicità sulle loro interfacce online
+provvedono affinché, per ogni singola pubblicità presentata a ogni singolo destinatario, i
+destinatari del servizio siano in grado di identificare in modo chiaro, conciso, inequivocabile
+e in tempo reale quanto segue:
+• a) che l'informazione costituisce una pubblicità, anche attraverso contrassegni visibili che
+   potrebbero seguire gli standard a norma dell'articolo 44;
+• b) la persona fisica o giuridica per conto della quale viene presentata la pubblicità;
+• c) la persona fisica o giuridica che paga per la pubblicità, se detta persona è diversa dalla
+   persona fisica o giuridica di cui alla lettera b);
+• d) informazioni rilevanti direttamente e facilmente accessibili dalla pubblicità relative ai
+   parametri utilizzati per determinare il destinatario al quale viene presentata la pubblicità
+   e, laddove applicabile, alle modalità di modifica di detti parametri.
+Pubblicità online, profilazione e minore
+• Articolo 26: I fornitori di piattaforme online non
+  possono presentare pubblicità ai destinatari del
+  servizio basate sulla profilazione, quale definita
+  all'articolo 4, punto 4), del regolamento (UE)
+  2016/679, utilizzando le categorie speciali di dati
+  personali di cui all'articolo 9, paragrafo 1, del
+  regolamento (UE) 2016/679.
+
+• Art. 28: I fornitori di piattaforme online non
+  presentano sulla loro interfaccia pubblicità basata sulla
+  profilazione come definita all'articolo 4, punto 4), del
+  regolamento (UE) 2016/679 che usa i dati personali del
+  destinatario del servizio se sono consapevoli, con
+  ragionevole certezza, che il destinatario del servizio è
+  minore.
+La tutela della concorrenza
+La tutela giuridica della concorrenza
+origina da 2 esigenze, non sempre
+convergenti
+• Tutelare i concorrenti da pratiche
+  sleali di accesso al mercato e
+• Tutelare il mercato in generale
+  salvaguardandone la dinamica
+  competitiva, anche a tutela del
+  consumatori
+Art. 102 TFUE – Abuso di posizione
+dominante
+«È incompatibile con il mercato interno e vietato, nella misura in cui possa essere
+pregiudizievole al commercio tra Stati membri, lo sfruttamento abusivo da parte di una o
+più imprese di una posizione dominante sul mercato interno o su una parte sostanziale di
+questo.
+Tali pratiche abusive possono consistere in particolare:
+a) nell'imporre direttamente od indirettamente prezzi d'acquisto, di vendita od altre
+condizioni di transazione non eque;
+b) nel limitare la produzione, gli sbocchi o lo sviluppo tecnico, a danno dei consumatori;
+c) nell'applicare nei rapporti commerciali con gli altri contraenti condizioni dissimili per
+prestazioni equivalenti, determinando così per questi ultimi uno svantaggio per la
+concorrenza;
+d) nel subordinare la conclusione di contratti all'accettazione da parte degli altri contraenti
+di prestazioni supplementari, che, per loro natura o secondo gli usi commerciali, non
+abbiano alcun nesso con l'oggetto dei contratti stessi.»
+Diritto della concorrenza UE
+
+
+
+
+                                   Private
+                                competitiors
+                                  (right to
+                               compensation)
+                                  Direcitve
+                                  2014/14
+Il caso Google (2017)
+• Secondo la Commissione Europea Google, nella strategia attuata per il suo
+  servizio di acquisti comparativi,
+   • non si è limitata a rendere il suo prodotto migliore di quelli concorrenti per attrarre
+     più clienti.
+   • ha abusato della sua posizione dominante come motore di ricerca per promuovere il
+     suo servizio tra i risultati della ricerca e per retrocedere quello dei concorrenti
+• La commissione ha condannato Google al pagamento di una sanzione di
+  2,42 miliardi di Euro
+• Ha imposto di porre fine al comporatamento, a pena di essere soggetta a
+  una sanzione fino al 5% del fatturato giornaliero medio di Alphabet
+• Vedi: http://europa.eu/rapid/press-release_IP-17-1784_it.htm
+Il caso Meta (2022)
+• La Commissione europea accusa Meta di violare le norme antitrust
+  dell'UE nel mercato della pubblicità online, affermando che l'azienda
+  distorce la concorrenza legando Facebook Marketplace al suo social
+  network principale, Facebook.
+• Queste pratiche, se confermate, costituirebbero una violazione
+  dell'articolo 102 del Trattato sul funzionamento dell'Unione europea,
+  che proibisce l'abuso di posizione dominante.
+• https://www.ansa.it/europa/notizie/rubriche/altrenews/2022/12/1
+  9/commissione-a-meta-ce-abuso-di-posizione-
+  dominante_ed395f70-d7bb-44bb-b4ca-61c0e23ecc61.html
+Il nuovo Digital Markets Act
+• Il sistema attuale è caratterizzato da sistemi chiusi
+  (ad es., l’ ecosistema di Apple) → software, dati e
+  informazioni sui clienti proprietari.
+• Obiettivo: ripristinare condizioni di correttezza e
+  contendibilità nei mercati digitali, soprattutto in
+  presenza di grandi piattaforme (Google, Amazon,
+  Apple, Meta, ecc.).
+• Elenco degli obblighi e delle pratiche vietate +
+  disposizioni di attuazione
+• Da regolazione ex post a regolazione ex ante
+Gatekeeper
+Un'impresa è designata come gatekeeper se:
+a) ha un impatto significativo sul mercato
+interno;
+b) fornisce un servizio di piattaforma di base che
+costituisce un punto di accesso (gateway)
+importante affinché gli utenti commerciali
+raggiungano gli utenti finali; e
+c) detiene una posizione consolidata e duratura,
+nell'ambito delle proprie attività, o è prevedibile
+che acquisisca siffatta posizione nel prossimo
+futuro.
+Servizi di piattaforma di base
+• a) servizi di intermediazione        • f) sistemi operativi;
+  online;                              • g) browser web;
+• b) motori di ricerca online;         • h) assistenti virtuali;
+• c) servizi di social network online; • i) servizi di cloud computing;
+• d) servizi di piattaforma per la     • j) servizi pubblicitari online
+  condivisione di video;
+• e) servizi di comunicazione
+  interpersonale indipendenti dal
+  numero;
+6 Settembre
+2023
+
+
+
+La CE può
+rivedere in
+qualsiasi
+momento la
+sua decisione
+(art. 4).
+
+
+
+
+                           Booking
+*13 maggio
+2024
+
+
+
+                Booking*
+I divieti
+Gli obblighi
+Prova di conformità/Funzione di conformità
+• Art. 8: Il GK assicura e dimostra il rispetto degli obblighi di cui agli
+  articoli 5, 6 e 7 del presente regolamento. Le misure attuate dal
+  gatekeeper per garantire la conformità a tali articoli devono essere
+  efficaci per raggiungere gli obiettivi del presente regolamento e
+  dell'obbligo pertinente.
+• Art. 28: Il GK deve introdurre una funzione di compliance,
+  indipendente dalle funzioni operative del gatekeeper e composta da
+  uno o più compliance officer, compreso il responsabile della funzione
+  di compliance.
+L’applicazione delle norme
+• La Commissione europea è l’attore principale dell’enforcement
+• Avvia indagini di mercato e ha ampi poteri investigativi
+• Esiti delle indagini: impegni, non conformità, ammende
+• L'autorità nazionale garante della concorrenza rimane competente in
+  base al diritto generale della concorrenza, ma deve coordinarsi con la
+  Commissione europea e non adottare una decisione contraria.
+• Gli Stati membri possono chiedere alla Commissione di avviare
+  indagini
+• Azioni collettive, se danneggiano gli interessi collettivi dei
+  consumatori
+La responsabilizzazione delle piattaforme
+• DSA: un nuovo pilastri per servizi
+  digitale più equo e compatibili con i
+  diritti fondamentali
+• Maggiore responsabilizzazione delle
+  grandi piattaforme, rispetto ad
+  importanti questioni giuridiche e
+  diritti fondamentali
+• Lettura congiunta con DMA
+Il regolamento sull’IA (AI Act)
+            Lezione 06.3
+Grandi opporunità
+• L’IA che oggi utilizziamo è quella specifica e sta già rapidamente
+  trasformando gli assetti economici, politici e sociali, nonché le interazioni
+  tra gli individui e persino la loro vita privata.
+• L'aumento dell'efficienza economica è già realtà, ma l'IA offre ulteriori
+  opportunità: sviluppo economico, sociale e culturale, sostenibilità
+  energetica, migliore assistenza sanitaria e diffusione della conoscenza.
+• L'IA cambierà le nostre vite migliorando l'assistenza sanitaria (ad esempio
+  rendendo più precise le diagnosi e consentendo una migliore prevenzione
+  delle malattie), aumentando l'efficienza dell'agricoltura, contribuendo alla
+  mitigazione e all'adattamento ai cambiamenti climatici, migliorando
+  l'efficienza dei sistemi di produzione attraverso la manutenzione predittiva,
+  aumentando la sicurezza degli europei e in molti altri modi che possiamo
+  solo iniziare a immaginare.
+I rischi dell’IA
+• Le opportunità offerte dall'IA sono accompagnate da gravi rischi, tra
+  cui disoccupazione, disuguaglianza, discriminazione, esclusione
+  sociale, sorveglianza e manipolazione.
+• È stato infatti affermato che l'IA dovrebbe contribuire alla
+  realizzazione di interessi individuali e sociali e che non dovrebbe
+  essere "sottoutilizzata, creando così costi di opportunità, né
+  sovrautilizzata e mal utilizzata, creando così rischi".
+Perdita di lavoro
+• la sostituzione di sistemi intelligenti al lavoro umano può svalutare il
+  lavoro di chi può essere rimpiazzato dalle machine (la “corsa contro le
+  macchine“)
+Privacy
+• L’uso dell’IA incentiva la raccolta massiva di dati: tutti i dati possono
+  essere utilizzate per analizzare e anticipare il comportamento umani
+• In particolare, l’IA può essere usata per profilare e acquisire nuova
+  conoscenza (anche solo probabile) sugli individui
+Discriminazioni
+• Nuovi rischi di stereotipizzazione, diseguaglianza e discriminazione a causa delle
+  classificazioni e delle categorizzazioni automatiche svolte da sistemi di IA
+• Ciò accade, ad esempio, quando fattori di rischio (genere, etnia, orientamento
+  politico) vengono utilizzati, magari perché appresi automaticamente tra i dati, per
+  effettuare decisioni automatiche (casi di discriminazione algoritmica)
+• Ad esempio, i sistemi di credit scoring potrebbero limitare l’accesso al credito a
+  persone meno abbienti; i sistemi di valutazione delle prestazioni lavorative
+  potrebbero pregiudicare le opportunità di lavoro per le donne etc.
+Manipolazione
+• L’uso dei sistemi automatici può incentivare la
+  manipolazione grazia alla possibilità di anticipare
+  i comportamenti delle persone e di
+  somministrare un trattamento potenzialmente
+  pregiudizievole per individui e società
+• Nella pubblicità online, gli utenti possono essere
+  indotti ad acquistare beni di cui non hanno
+  bisogno e ad indulgere nelle loro vulnerabilità
+• L’impatto sul dibattito democratico e sulle
+  elezioni
+ Iniziative dell’UE in materia di IA
+
+Febbraio 2017              Aprile 2018                    Aprile 2019                  Dicembre 2019               Febbraio 2020
+Risoluzione del            Comunicazione della            Comunicazione della          Fine della consultazione    Libro bianco,
+Parlamento europeo         Commissione europea            Commissione europea          con le parti interessate    Responsabilità
+                           sulla strategia dell'IA        sul tema "Creare fiducia
+                           per l'Europa                   nell'intelligenza
+                                                          artificiale incentrata
+                                                          sull'uomo".
+
+
+
+             Parere del Comitato           Linee guida etiche            Raccomandazioni              Aggiornamento delle
+             economico e sociale           dell'HLEG sull'IA             politiche e di               linee guida etiche
+             europeo                       affidabile                    investimento dell'HLEG       dell'HLEG
+                                           Dicembre/aprile
+             Mar. 2017                                                   Giugno 2019                  Gennaio 2020
+                                           2019
+
+
+
+                                                                                                                                    11
+Orientamenti etici sull’IA affidabile
+L’AI Act
+
+
+Obiettivi
+
+• affrontare i rischi creati specificamente dalle
+  applicazioni di IA
+• proporre un elenco di applicazioni ad alto
+  rischio
+• stabilire requisiti chiari per i sistemi di IA per le
+  applicazioni ad alto rischio
+• definire obblighi specifici per gli utenti e i
+  fornitori di applicazioni di IA ad alto rischio
+• proporre una valutazione di conformità
+  prima che il sistema di IA venga messo in
+  servizio o immesso sul mercato
+• proporre l'applicazione della normativa
+  dopo che il sistema di IA è stato immesso sul
+  mercato
+• proporre una struttura di governance a
+  livello europeo e nazionale
+Dove siamo adesso?
+
+
+
+
+                                              12 Luglio
+
+
+
+
+                              13 marzo 2024
+
+
+
+
+                     12
+                               1 Agosto                   31 Luglio 2026
+                     Luglio
+Definizione di IA
+
+«sistema di IA»:
+un sistema automatizzato progettato per funzionare con livelli di
+autonomia variabili e che può presentare adattabilità dopo la
+diffusione e che, per obiettivi espliciti o impliciti, deduce
+dall'input che riceve come generare output quali previsioni,
+contenuti, raccomandazioni o decisioni che possono influenzare
+ambienti fisici o virtuali
+I soggetti coinvolti
+• Art. 3(3): "fornitore”: una persona fisica o giuridica, un'autorità pubblica,
+  un'agenzia o un altro organismo che sviluppa un sistema di IA o un modello
+  di IA per finalità generali o che fa sviluppare un sistema di IA o un modello
+  di IA per finalità generali e immette tale sistema o modello sul mercato o
+  mette in servizio il sistema di IA con il proprio nome o marchio, a titolo
+  oneroso o gratuito;
+
+• Art. 3(4): ‘‘deployer’: una persona fisica o giuridica, un’autorità pubblica,
+  un’agenzia o un altro organismo che utilizza un sistema di IA sotto la
+  propria autorità, tranne nel caso in cui il sistema di IA sia utilizzato nel
+  corso di un'attività personale
+•…
+L’approccio basato sul rischio
+
+
+
+
+                                 50
+                                       X
+                                  95
+Esempi di sistemi proibiti
+                                                                           Rischio inaccettabile
+
+Sono vietate le pratiche di IA seguenti:
+a) l'immissione sul mercato, la messa in servizio o l'uso di un sistema
+di IA che utilizza tecniche subliminali che agiscono senza che una
+persona ne sia consapevole o tecniche volutamente manipolative o
+ingannevoli aventi lo scopo o l'effetto di distorcere materialmente il
+comportamento di una persona o di un gruppo di persone,
+pregiudicando in modo considerevole la loro capacità di prendere
+una decisione informata, inducendole pertanto a prendere una
+decisione che non avrebbero altrimenti preso, in un modo che
+provochi o possa ragionevolmente provocare a tale persona, a
+un'altra persona o a un gruppo di persone un danno significativo;
+b) l'immissione sul mercato, la messa in servizio o l'uso di un sistema
+di IA che sfrutta le vulnerabilità di una persona fisica o di uno
+specifico gruppo di persone, dovute all'età, alla disabilità o a una
+specifica situazione sociale o economica, con l'obiettivo o l'effetto di
+distorcere materialmente il comportamento di tale persona o di una
+persona che appartiene a tale gruppo in un modo che provochi o
+possa ragionevolmente provocare a tale persona o a un'altra persona
+un danno significativo;
+Allegato III                                          Alto rischio
+
+
+Settori ad alto rischio
+• Sistemi biometrici
+• Infrastrutture critiche (ad es. fornitura di acqua, gas, riscaldamento,
+  elettricità, traffico stradale).
+• Formazione scolastica o professionale (ad esempio, valutazione degli esami);
+• Occupazione, gestione dei lavoratori e accesso al lavoro autonomo (ad
+  esempio, software di selezione dei CV per le procedure di assunzione);
+• Erogazione di servizi pubblici e privati essenziali (ad esempio, il credit scoring
+  che nega ai cittadini l'opportunità di ottenere un prestito, un alloggio,
+  un'assicurazione sanitaria/vita);
+• Applicazione della legge che può interferire con i diritti fondamentali delle
+  persone (ad esempio, valutazione dell'affidabilità delle prove);
+• Gestione dell'immigrazione, dell'asilo e del controllo delle frontiere (ad
+  esempio, verifica dell'autenticità dei documenti di viaggio);
+• Amministrazione della giustizia e dei processi democratici (ad esempio,
+  applicazione della legge a una serie di fatti concreti, Legal Tech).
+I requisiti per i sistemi ad alto rischio
+                                                                 Alto rischio
+
+
+• Art. 9: Sistema di gestione del rischio
+• Art. 10: Dati e governance dei dati
+• Art. 11: Documentazione tecnica
+• Art. 12: Conservazione delle registrazioni
+• Art. 13: Trasparenza e fornitura di informazioni ai deployer
+• Art. 14: Sorveglianza umana
+• Art. 15: Accuratezza, robustezza, cirbersicurezza
+Valutazione d’impatto sui diritti fondamentali (art. 27)
+
+                Prima di utilizzare un sistema di IA ad alto rischio di cui all'articolo 6, paragrafo 2, ad
+                eccezione dei sistemi di IA ad alto rischio destinati a essere usati nel settore elencati
+                nell'allegato III, punto 2, i deployer che sono organismi di diritto pubblico o sono
+                enti privati che forniscono servizi pubblici e i deployer di sistemi di IA ad alto rischio
+                di cui all'allegato III, punto 5, lettere b) e c), effettuano una valutazione dell'impatto
+                sui diritti fondamentali che l'uso di tale sistema può produrre. A tal fine, i deployer
+                effettuano una valutazione che comprende gli elementi seguenti:
+                a) una descrizione dei processi del deployer in cui il sistema di IA ad alto rischio
+                sarà utilizzato in linea con la sua finalità prevista;
+                b) una descrizione del periodo di tempo entro il quale ciascun sistema di IA ad alto
+                rischio è destinato a essere utilizzato e con che frequenza;
+                c) le categorie di persone fisiche e gruppi verosimilmente interessati dal suo uso nel
+                contesto specifico;
+                d) i rischi specifici di danno che possono incidere sulle categorie di persone fisiche
+                o sui gruppi di persone individuati a norma della lettera c), del presente paragrafo
+                tenendo conto delle informazioni trasmesse dal fornitore a norma dell'articolo 13;
+                e) una descrizione dell'attuazione delle misure di sorveglianza umana, secondo le
+                istruzioni per l'uso;
+                f) le misure da adottare qualora tali rischi si concretizzino, comprese le disposizioni
+                relative alla governance interna e ai meccanismi di reclamo.
+Valutazione della conformità   Alto rischio
+Sistemi a rischio limitato – Es. I deep fake    Sistemi a rischio
+                                                     limitato
+
+Articolo 50(4) – I deployer di un
+sistema di IA che genera o manipola
+immagini o contenuti audio o video
+che costituiscono un "deep fake"
+rendono noto che il contenuto è
+stato generato o manipolato
+artificialmente. […]
+Qualora il contenuto faccia parte di
+un'analoga opera o di un
+programma manifestamente artistici,
+creativi, satirici o fittizi, gli obblighi di
+trasparenza di cui al presente
+paragrafo si limitano all'obbligo di
+rivelare l'esistenza di tali contenuti
+generati o manipolati in modo
+adeguato, senza ostacolare
+l'esposizione o il godimento
+dell'opera.
+Regole specifiche sui modelli generali di IA
+
+
+     AI systems
+                  General Purpose AI systems
+
+
+                        General Purpose AI models
+
+
+
+
+                            GPAI M with systemic risk
+
+
+
+
+                                                        Art. 3(63): ‘«modello di IA per finalità generali»: un
+                                                        modello di IA, anche laddove tale modello di IA sia
+                                                        addestrato con grandi quantità di dati utilizzando
+                                                        l'autosupervisione su larga scala, che sia
+                                                        caratterizzato una generalità significativa e sia in
+                                                        grado di svolgere con competenza un'ampia
+                                                        gamma di compiti distinti, indipendentemente dalle
+                                                        modalità con cui il modello è immesso sul mercato, e
+                                                        che può essere integrato in una varietà di sistemi o
+                                                        applicazioni a valle, ad eccezione dei modelli di IA
+                                                        utilizzati per attività di ricerca, sviluppo o
+                                                        prototipazione prima di essere immessi sul mercato;
+Governance e controlli
+Sanzioni
+• Inosservanza delle norme sulle pratiche vietate del sistema di IA: multa fino al 6%
+  del fatturato annuo mondiale (calcolato a livello di "impresa" (gruppo), su base
+  consolidata).
+• Inosservanza delle norme che impongono ai fornitori di sistemi di IA ad alto
+  rischio che prevedono l'addestramento di modelli attraverso i dati di effettuare
+  l'addestramento, la convalida e il test di serie di dati che soddisfano i requisiti dei
+  criteri di qualità specificati: multa fino al 6% del fatturato annuo mondiale (a
+  livello di gruppo).
+• Inosservanza di altri requisiti o obblighi ai sensi della Legge sull'Intelligenza
+  Artificiale: fino al 4% dei ricavi totali a livello mondiale (a livello di gruppo).
+• Fornitura di informazioni inesatte, incomplete o fuorvianti a enti pubblici in
+  risposta a una richiesta: fino al 2% del fatturato totale annuo (a livello di gruppo).
+
