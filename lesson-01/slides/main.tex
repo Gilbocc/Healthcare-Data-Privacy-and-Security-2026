@@ -12,6 +12,13 @@
 \usetikzlibrary{arrows.meta,positioning,shapes.geometric}
 
 \renewcommand{\dateseparator}{/}
+\newcommand{\sectiontitleframe}[1]{
+\begin{frame}[plain,c]
+\begin{center}
+{\usebeamerfont{title}\usebeamercolor[fg]{title}#1}
+\end{center}
+\end{frame}
+}
 
 \title[Lesson 1]{Foundations of Computer Security in Healthcare}
 \institute[Data Privacy and Security]{Healthcare Data Privacy and Security}
@@ -79,6 +86,7 @@ much deeper into the technical, organisational, and legal controls.
 \end{frame}
 
 \section{Running Scenario}
+\sectiontitleframe{Running Scenario}
 
 \begin{frame}[c]{Section Context: Running Scenario}
 \begin{block}{What we are talking about}
@@ -160,6 +168,7 @@ recent lab results. A technical failure becomes a \textit{patient-safety} issue.
 \end{frame}
 
 \section{Security Objectives}
+\sectiontitleframe{Security Objectives}
 
 \begin{frame}[c]{Section Context: Security Objectives}
 \begin{block}{What we are talking about}
@@ -354,6 +363,7 @@ administration time, issued by a genuine clinician, and auditable afterwards.
 \end{frame}
 
 \section{Components and Networks}
+\sectiontitleframe{Components and Networks}
 
 \begin{frame}[c]{Section Context: Components and Networks}
 \begin{block}{What we are talking about}
@@ -464,6 +474,7 @@ delayed or altered results can change clinical decisions.
 \end{frame}
 
 \section{Impact and Risk}
+\sectiontitleframe{Impact and Risk}
 
 \begin{frame}[c]{Section Context: Impact and Risk}
 \begin{block}{What we are talking about}
@@ -725,6 +736,7 @@ than when it can only affect an isolated public kiosk.
 \end{frame}
 
 \section{Vulnerabilities and Attacks}
+\sectiontitleframe{Vulnerabilities and Attacks}
 
 \begin{frame}[c]{Section Context: Vulnerabilities and Attacks}
 \begin{block}{What we are talking about}
@@ -841,6 +853,7 @@ together they can form one ransomware path.
 \end{frame}
 
 \section{Threat Classes}
+\sectiontitleframe{Threat Classes}
 
 \begin{frame}[c]{Section Context: Threat Classes}
 \begin{block}{What we are talking about}
@@ -1009,6 +1022,7 @@ diagnosis, treatment, auditability, and patient safety.
 \end{frame}
 
 \section{Attack Surface}
+\sectiontitleframe{Attack Surface}
 
 \begin{frame}[c]{Section Context: Attack Surface}
 \begin{block}{What we are talking about}
@@ -1147,6 +1161,7 @@ interrupt it at different points.
 \end{frame}
 
 \section{Design and Policy}
+\sectiontitleframe{Design and Policy}
 
 \begin{frame}[c]{Section Context: Design and Policy}
 \begin{block}{What we are talking about}
