@@ -1055,6 +1055,99 @@ authenticators for administrators and other high-impact accounts.
   The hospital can use OTP for many staff workflows, but should prefer phishing-resistant MFA for remote access, administrators, and high-impact clinical systems.
 }
 
+\section{Authentication Lab}
+\sectiontitleframe{Authentication Lab}
+
+\begin{frame}[c]{Section Context: Authentication Lab}
+\begin{block}{What we are talking about}
+The lab turns the authentication mechanisms into small executable models. The goal is to see the
+logic of password verifiers, replay resistance, and TOTP MFA without pretending that a notebook is a
+production identity system.
+\end{block}
+
+\begin{exampleblock}{Hospital lens}
+St. Isidore Hospital uses these examples to reason about policy choices. In real deployments,
+administrators configure identity providers, MFA platforms, operating-system authentication,
+logging, and recovery workflows.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[c]{Lab Setup}
+\begin{block}{Environment}
+Use the lesson-local virtual environment:
+\texttt{lesson-05/.venv}
+\end{block}
+
+\begin{block}{Notebooks}
+Open the notebooks in \texttt{lesson-05/examples} and select the \texttt{lesson-05/.venv} Python
+kernel.
+\end{block}
+
+\begin{exampleblock}{Safety}
+The examples use artificial users and toy policies only. Do not use real patient data, real staff
+credentials, or production authentication secrets.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[c]{Notebook 1: Password Storage and Cracking}
+\begin{block}{Open}
+\texttt{lesson-05/examples/01\_password\_storage\_and\_cracking.ipynb}
+\end{block}
+
+\begin{block}{What it shows}
+The notebook compares plaintext password storage with salted PBKDF2 verifiers, then simulates a
+small offline dictionary attack against weak hospital-themed passwords.
+\end{block}
+
+\begin{exampleblock}{Running example}
+Some St. Isidore accounts use predictable passwords such as hospital names, departments, or birth
+years. The attacker does not need the real login page once the verifier file is stolen.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[c]{Notebook 2: Challenge-Response and Replay}
+\begin{block}{Open}
+\texttt{lesson-05/examples/02\_challenge\_response\_replay.ipynb}
+\end{block}
+
+\begin{block}{What it shows}
+The notebook first demonstrates a replayable static response, then adds a nonce so that each login
+attempt requires a fresh response.
+\end{block}
+
+\begin{exampleblock}{Running example}
+A captured remote-login response from Dr. Moretti should not be reusable against the hospital VPN
+or EHR gateway during a later login attempt.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[c]{Notebook 3: TOTP Multi-Factor Authentication}
+\begin{block}{Open}
+\texttt{lesson-05/examples/03\_totp\_mfa.ipynb}
+\end{block}
+
+\begin{block}{What it shows}
+The notebook creates a TOTP shared secret, generates one-time codes, verifies current codes, and
+shows how verification windows handle clock drift.
+\end{block}
+
+\begin{exampleblock}{Running example}
+Dr. Moretti's authenticator app and the hospital server can produce the same short code because
+they share a secret and a time step. The code expires, but real-time phishing is still possible.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[c]{Lab Recap}
+\begin{block}{Takeaways}
+\begin{itemize}
+    \item Password hashes reduce damage only when combined with salts, slow hashing, and good policy.
+    \item Challenge-response uses freshness to make captured responses less reusable.
+    \item TOTP MFA improves security, but shared secrets, recovery, clock drift, phishing, and endpoint
+    compromise still matter.
+\end{itemize}
+\end{block}
+\end{frame}
+
 \section{Connecting the Concepts}
 \sectiontitleframe{Connecting the Concepts}
 
