@@ -1,0 +1,9 @@
+name: computational-ethics-lesson-09
+
+services:
+  texlive:
+    image: ghcr.io/xu-cheng/texlive-full:latest
+    working_dir: /workspace/slides
+    volumes:
+      - ./slides:/workspace/slides
+    entrypoint: ["latexmk"]

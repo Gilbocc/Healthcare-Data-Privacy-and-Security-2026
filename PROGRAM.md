@@ -1,87 +1,192 @@
-COURSE: Healthcare Data Privacy and Security 
+COURSE: Healthcare Data Privacy and Security
 
-OVERVIEW: This course introduces students and healthcare professionals to the principles, policies, and technologies that protect health data within digital systems. It covers data privacy laws, ethical considerations, cybersecurity fundamentals, risk management, and best practices for safeguarding electronic health information. Learners will develop competencies needed to manage health data responsibly, prevent unauthorized access, and respond to security incidents in healthcare environments.
+OVERVIEW: This course introduces students and healthcare professionals to the
+principles, policies, and technologies used to protect health data in digital
+systems. The course combines security foundations, cryptography, authentication,
+access control, networking, operational security, and privacy regulation through a
+running hospital scenario and applied labs.
 
-SCHEDULE: 10 lessons (3:30 hours each)
+Learners will develop practical competence to reason about healthcare data
+risks, design appropriate safeguards, operate basic security controls, understand
+privacy duties, and respond to incidents that affect patient data and care
+continuity.
 
-MODULE 1 : Basics (1 lesson)
+SCHEDULE: 9 lessons, 3.5 hours each
 
-- Importance of data protection in healthcare settings
-- Intro to data
-	- Definitions: Privacy, security, confidentiality, integrity, availability, ...
-	- Data lifecycle
-- Understand the role of ethics in patient data protection
-	- Principles: autonomy, beneficence, justice, non-maleficence
-	
-MODULE 2 : Regulations and Compliance (2 lessons)
+RUNNING SCENARIO: St. Isidore Hospital
 
-- International regulations: GDPR, HIPAA, ...
-	- Informed consent...
-	- Types of health information (PHI, PII, ...)
-	- Anonymization, Pseudonymization
-	- Data sharing and secondary use
-	- ...
-- Standards: ISO 27001, ...
-- National laws?
-	
-MODULE 3 : Tech background (4 lessons)
+The course repeatedly returns to the same fictional hospital environment:
+clinical workstations, laboratory systems, patient records, OpenHospital,
+remote access, guest networks, backups, logs, and privacy obligations.
 
-- Health Information Systems
-	- Components...
-	- Intro do DBMS?
-	- Health systems (the list below is generated. double check)
-		- EHR systems
-		- Laboratory Information Systems (LIS)
-		- Radiology Information Systems (RIS)
-		- PACS
-		- Pharmacy systems
-		- Health Information Exchange (HIE)
-		- DHIS2
-		- APIs and interoperability
-		- HL7/FHIR
-- Intro to networking
-- Encryption
-	- Encryption algorithms (basic overview)
-	- SSL/TLS, VPN, secure email systems
-	- Key management basics
-- Access control mechanisms
-	- Role-based access control (RBAC)
-	- Password policies
-	- Multi-factor authentication
-	- ...
-- Cyber threats
-	- Malware, ransomware, phishing, social engineering
-	- Insider threats
-	- Legacy systems and software vulnerabilities
 
-MODULE 4 : System security (2 lessons)
+LESSON 1: Foundations of Computer Security in Healthcare
 
-- Security Principles
-	- CIA triad (Confidentiality, Integrity, Availability)
-	- defense in depth
-	- zero trust
-	- least privilege
-	- Security models and frameworks 
-- Healthcare Security Applications
-	- Electronic Health Records (EHR) security
-	- Mobile health and telemedicine risks
-	- Protecting cloud-based health systems
-	- Mobile health apps
-	- Wearables and IoT health devices
-	- Electronic registries and DHIS2
-	- Audit logging and monitoring
+- Why healthcare security matters
+- Confidentiality, integrity, and availability
+- Risk, likelihood, impact, and basic risk matrices
+- Threats, vulnerabilities, attacks, and attack surfaces
+- Security objectives in a hospital environment
+- Running example: St. Isidore Hospital and its systems
 
-MODULE 5 : Operational Security Management (2 lesson)
+Outcome: learners can describe security goals and risks for a healthcare system.
 
-- Risk identification, analysis, and prioritization
-- Threat modeling
-- Security controls and safeguards
-- Mitigation strategies
-- Security awareness and training
+
+LESSON 2: Cryptographic Foundations for Healthcare Systems
+
+- Classical encryption as intuition
+- Symmetric encryption: DES, 3DES, AES
+- Block ciphers, stream ciphers, and modes of operation
+- Authenticated encryption and AES-GCM
+- Hash functions, MACs, HMAC, and password hashing
+- Public-key cryptography, RSA, signatures, certificates, and key exchange
+- Key management and randomness
+- Python notebooks with concrete examples
+
+Outcome: learners understand what cryptographic tools do, what they do not do,
+and where they fit in healthcare systems.
+
+
+LESSON 3: Access Control in Healthcare Systems
+
+- Authentication, authorization, and audit
+- Subjects, objects, rights, and policies
+- Discretionary Access Control (DAC)
+- Mandatory Access Control (MAC)
+- Role-Based Access Control (RBAC)
+- Least privilege, separation of duties, and emergency access
+- Python notebooks comparing DAC, MAC, and RBAC toy models
+
+Outcome: learners can design and compare access-control policies for hospital
+workflows.
+
+
+LESSON 4: RBAC and Logging in OpenHospital
+
+- Deploy and access OpenHospital
+- Understand users, groups, and permissions
+- Configure realistic RBAC policies
+- Test access with different hospital roles
+- Inspect logs and identify audit gaps
+- Discuss why real systems implement access models differently from toy models
+
+Outcome: learners can operate a real healthcare application enough to configure
+and verify access-control behavior.
+
+
+LESSON 5: Authentication in Healthcare Systems
+
+- Authentication factors
+- Password files and password storage
+- Password attacks and password policy
+- Challenge-response authentication
+- Tokens, smart cards, remote authentication, and MFA
+- One-time passwords and TOTP
+- Python notebooks on password hashing, challenge-response, and MFA
+
+Outcome: learners understand common authentication mechanisms and the risks of
+weak authentication in healthcare environments.
+
+
+LESSON 6: Basic Networking and Firewalls
+
+- Networking foundations: IP, subnets, ports, DNS, routing
+- Hospital network architecture
+- Firewalls, packet filtering, stateful firewalls, and proxy firewalls
+- Allow-list and deny-list thinking
+- VPNs and secure remote access
+- Deployment patterns for healthcare systems
+- Hands-on firewall policy simulation
+- Optional: cloud computing concepts and risks
+
+Outcome: learners can reason about network segmentation and firewall policy in a
+hospital environment.
+
+
+LESSON 7: OpenHospital API Network Security Lab
+
+- Deploy the real OpenHospital API with MariaDB
+- Place Nginx in front of the API
+- Start from an intentionally open proxy baseline
+- Test health checks, Swagger, login, CRUD endpoints, and verified reads
+- Harden the proxy by subnet and API path
+- Verify clinical, lab, VPN, guest, and DMZ behavior
+- Inspect proxy and backend logs
+- Use real CRUD where supported and real demo-data reads where clinical workflow
+  constraints make fake writes inappropriate
+
+Outcome: learners can deploy and test a realistic healthcare API security
+architecture with network-based access restrictions.
+
+
+LESSON 8: Healthcare Privacy and Data Protection
+
+- From privacy as private life to data protection as information governance
+- Decision privacy and information privacy
+- Personal data, medical data, PHI, identifiability
+- Anonymization and pseudonymization
+- GDPR as an influential reference model, not the only global regime
+- Global healthcare privacy frameworks: GDPR, HIPAA, CCPA/CPRA, POPIA, APEC
+- GDPR concepts: controller, processor, processing, principles, legal bases
+- Consent and its limits in healthcare
+- Patient rights: information, access, rectification, erasure, portability,
+  objection, automated decisions
+- Accountability, data protection by design/default, DPIA, breach duties, DPO
+- Privacy risks in digital healthcare and links to previous security lessons
+
+Outcome: learners can connect technical safeguards with legal and ethical duties
+around patient data.
+
+
+LESSON 9: Operational Security, Ransomware, and Incident Response
+
+- Operational security mindset
+- Governance, identify, protect, detect, respond, recover
+- Phishing, scams, fake IT support, invoice fraud, MFA fatigue
+- Ransomware attack chain and healthcare impact
+- Prevention and early warning signs
+- Backups, 3-2-1 strategy, immutable/offline copies
+- RPO, RTO, restore testing, and downtime procedures
 - Incident response lifecycle
-- Backup and recovery
-- Business continuity and disaster recovery
+- Breach triage and incident communication
+- Tabletop exercise: St. Isidore ransomware on Monday morning
+
+Outcome: learners can describe practical actions before, during, and after a
+healthcare security incident.
 
 
-ADD-ON:
-	- Something on data and AI systems? Private models, data collection, ...
+COURSE INTEGRATION
+
+The course intentionally moves from concepts to mechanisms, then to real systems
+and operational response:
+
+1. Security goals and risk
+2. Encryption and integrity mechanisms
+3. Access-control models
+4. Real OpenHospital RBAC configuration
+5. Authentication mechanisms and attacks
+6. Networking and firewall policy
+7. Real OpenHospital API proxy lab
+8. Privacy and data protection governance
+9. Ransomware, backups, incident response, and communication
+
+
+LABS AND PRACTICAL MATERIAL
+
+- Cryptography notebooks
+- DAC/MAC/RBAC notebooks
+- Authentication notebooks
+- Firewall simulation notebook
+- OpenHospital RBAC lab
+- OpenHospital API network/proxy lab
+- Operational tabletop exercise
+
+
+OPTIONAL EXTENSIONS
+
+- Health information systems and interoperability: EHR, LIS, RIS, PACS,
+  DHIS2, HL7/FHIR
+- Standards and frameworks: ISO 27001, NIST, CIS Controls
+- AI and health data: privacy-preserving analytics, model governance,
+  inference risks, synthetic data, federated learning
+- Medical devices, wearables, mobile health, and telemedicine security
