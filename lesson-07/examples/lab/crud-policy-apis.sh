@@ -104,6 +104,8 @@ call lab-client "$lab_token" GET /examtypes
 call lab-client "$lab_token" PUT /examtypes/ZT \
     '{"code":"ZT","description":"Security lab exam type updated"}'
 call lab-client "$lab_token" GET /examtypes
+call lab-client "$lab_token" DELETE /examtypes/ZT
+call lab-client "$lab_token" GET /examtypes
 
 printf "\n=== Lab API: Exams and Exam Rows, Verified Reads ===\n"
 printf "These calls use real demo-data exam records. They are read examples, not toy writes.\n"
@@ -129,6 +131,7 @@ if [ -n "$patient_code" ]; then
     call clinical-client "$clinical_token" PUT "/patients/$patient_code" \
         "$patient_update_payload"
     call clinical-client "$clinical_token" GET "/patients/$patient_code"
+    call clinical-client "$clinical_token" DELETE "/patients/$patient_code"
 else
     printf "Patient creation did not expose a numeric code; continuing with read-only patient examples.\n"
 fi
@@ -147,9 +150,5 @@ call lab-client "$lab_token" GET /laboratories/15
 call_no_auth guest-client GET /laboratories || true
 
 printf "\n=== Cleanup ===\n"
-if [ -n "${patient_code:-}" ]; then
-    quiet_call clinical-client "$clinical_token" DELETE "/patients/$patient_code"
-fi
-quiet_call lab-client "$lab_token" DELETE /examtypes/ZT
 
 printf "\nDone. Review the responses above to see which layer answered each request.\n"

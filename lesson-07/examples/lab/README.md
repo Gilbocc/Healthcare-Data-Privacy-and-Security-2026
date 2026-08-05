@@ -40,7 +40,7 @@ docker compose build database backend
 docker compose up -d database
 ```
 
-Wait until the database is ready, then optionally load demo data:
+Wait until the database is ready, then load demo data:
 
 ```bash
 docker compose run --rm oh-database-init
@@ -170,7 +170,7 @@ The guided script prints the response for each request. It covers:
 - full CRUD for `/admissiontypes` from the clinical network;
 - full CRUD for `/examtypes` from the lab network;
 - verified reads for real demo-data `/exams`, `/examrows`, `/admissions`, and `/laboratories`;
-- full create/read/update for a temporary `/patients` record from the clinical network;
+- full CRUD for a temporary `/patients` record from the clinical network;
 - denied calls from subnets that should not reach a path.
 
 The guided script avoids fake lab-domain writes. OpenHospital laboratory requests and exam records

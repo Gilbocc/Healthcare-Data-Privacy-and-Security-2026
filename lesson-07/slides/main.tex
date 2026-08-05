@@ -124,7 +124,7 @@ patient endpoints, laboratory endpoints, Swagger documentation, and health check
     \item prepare OpenHospital API source and configuration;
     \item build the database and backend containers;
     \item start Nginx with an open proxy policy;
-    \item test healthcheck, DMZ Swagger access, login, and CRUD endpoints;
+    \item test healthcheck, DMZ Swagger access, login, CRUD endpoints, and read-only clinical data;
     \item replace the open policy with subnet/path restrictions;
     \item verify allowed and denied flows from different client containers.
 \end{itemize}
@@ -149,8 +149,8 @@ down, Nginx cannot route, authentication failed, or the subnet rule blocks the r
 \toprule
 \textbf{Network} & \textbf{Allowed API Area} & \textbf{Reason} \\
 \midrule
-Clinical & patients, admissions, admission types, lab & clinical care needs broad access \\
-Lab & laboratories, exams & laboratory workflow, not full patient browsing \\
+Clinical & patients, admissions, admission types, lab APIs & clinical care needs broad access \\
+Lab & laboratories, exams, exam types, exam rows & laboratory workflow, not full patient browsing \\
 VPN & clinical APIs & remote clinical work through controlled access \\
 DMZ & Swagger, OpenAPI docs & documentation and API testing are isolated \\
 Guest & none & patient Wi-Fi is isolated from hospital systems \\
@@ -411,11 +411,23 @@ OH_NO_AUTH=1 ./api-call.sh dmz GET /swagger-ui/index.html
 
 \begin{exampleblock}{Guided tour}
 \texttt{./crud-policy-apis.sh} prints responses for the API paths used in the lab policy, including
-allowed calls, denied subnet calls, successful CRUD, and application-level validation errors.
+allowed calls, denied subnet calls, successful CRUD, and verified reads against real demo data.
 \end{exampleblock}
 \end{frame}
 
-\begin{frame}[fragile,c]{CRUD Requests Behind the Script}
+\begin{frame}[c]{What Is Actually CRUD?}
+\begin{block}{Verified write workflows}
+The guided lab performs real create/read/update/delete work only where the OpenHospital API accepts
+the complete object model without extra clinical workflow setup.
+\end{block}
+
+\begin{exampleblock}{Hospital lens}
+St. Isidore changes low-risk training records: admission-type configuration, lab exam-type
+configuration, and a temporary patient created only for the exercise.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile,c]{Administrative CRUD Requests}
 \small
 \begin{block}{API operations}
 \begin{verbatim}
@@ -432,6 +444,60 @@ the proxy policy must decide which subnets can reach them.
 \end{exampleblock}
 \end{frame}
 
+\begin{frame}[fragile,c]{Lab Configuration CRUD Requests}
+\small
+\begin{block}{API operations}
+\begin{verbatim}
+GET  /examtypes
+POST /examtypes
+PUT  /examtypes/ZT
+DELETE /examtypes/ZT
+GET  /examtypes
+\end{verbatim}
+\end{block}
+
+\begin{exampleblock}{Network-security meaning}
+The lab subnet can maintain laboratory exam-type configuration, but it still cannot access general
+clinical administration endpoints such as \texttt{/admissiontypes}.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile,c]{Patient CRUD Requests}
+\small
+\begin{block}{API operations}
+\begin{verbatim}
+POST /patients
+GET  /patients/{created-code}
+PUT  /patients/{created-code}
+GET  /patients/{created-code}
+DELETE /patients/{created-code}
+\end{verbatim}
+\end{block}
+
+\begin{exampleblock}{Hospital lens}
+The script creates a temporary training patient named \texttt{Security Patient}, updates it, checks
+the result, and deletes it.
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}[fragile,c]{Verified Read-Only API Areas}
+\small
+\begin{block}{Real demo-data reads}
+\begin{verbatim}
+GET /exams/description/WBC
+GET /examrows/byExamCode/01.02
+GET /admissions?...page=0&size=3
+GET /laboratories?oneWeek=false&page=0&size=3
+GET /laboratories/15
+\end{verbatim}
+\end{block}
+
+\begin{exampleblock}{Why not fake writes here?}
+OpenHospital exams and laboratory requests are tied to existing clinical workflows and database
+constraints. The lab therefore reads real records instead of inventing invalid objects.
+\end{exampleblock}
+\end{frame}
+
 \begin{frame}[fragile,c]{Example Payloads}
 \begin{block}{Create and update}
 \begin{verbatim}
@@ -444,7 +510,8 @@ the proxy policy must decide which subnets can reach them.
 
 \takeawaysframe{
 \begin{itemize}
-    \item CRUD tests confirm useful API behavior, not only reachability.
+    \item CRUD tests confirm useful API behavior where the model is simple enough for the lab.
+    \item Complex clinical objects are tested through verified reads against real demo data.
     \item The JWT proves application authentication is active.
     \item The same endpoint can later be allowed for clinical/VPN and denied for lab/guest.
 \end{itemize}
@@ -505,8 +572,9 @@ or user management endpoints.
 \end{block}
 
 \begin{exampleblock}{Hospital example}
-The lab may submit or read laboratory results through \texttt{/laboratories}. It should not browse
-all \texttt{/patients} endpoints just because it is inside the hospital.
+The lab can reach laboratory API paths such as \texttt{/laboratories}, and the tutorial verifies this
+with real read requests. It should not browse all \texttt{/patients} endpoints just because it is
+inside the hospital.
 \end{exampleblock}
 \end{frame}
 
