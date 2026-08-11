@@ -10,7 +10,7 @@
 
 \renewcommand{\dateseparator}{/}
 
-\title[Lesson 1]{Course Overview}
+\title[Lesson 0]{Course Overview}
 \institute[Data Privacy and Security]{Healthcare Data Privacy and Security}
 \author[\sspeaker{G. Pisano}]{\speaker{Giuseppe Pisano} \\\href{mailto:g.pisano@unibo.it}{g.pisano@unibo.it}}
 \date[August, 2026]{August, 2026}
@@ -50,116 +50,158 @@
 \section{Course Overview}
 
 \begin{frame}[c,allowframebreaks]{About the Course}
-\textbf{Healthcare Data Privacy and Security} introduces students and healthcare professionals to the principles, policies, and technologies that protect health data within digital systems.
+\textbf{Healthcare Data Privacy and Security} introduces students and healthcare professionals to the principles, policies, and technologies used to protect health data in digital systems.
 
 \bigskip
 Topics covered:
 \begin{itemize}
-    \item Data privacy laws and ethical considerations
-    \item Cybersecurity fundamentals and risk management
-    \item Best practices for safeguarding electronic health information
+    \item Security foundations, risk, and healthcare threats
+    \item Cryptography, authentication, access control, and networking
+    \item Privacy regulation, operational security, and incident response
+    \item Applied labs using notebooks and OpenHospital
 \end{itemize}
 
 \bigskip
-\textbf{Schedule:} 10 lessons \texttimes{} 3h30m each
+\textbf{Schedule:} 9 lessons \texttimes{} 3h30m each
+\end{frame}
+
+\begin{frame}[c]{Running Scenario}
+\begin{block}{St. Isidore Hospital}
+The course repeatedly returns to the same fictional hospital environment: clinical workstations,
+laboratory systems, patient records, OpenHospital, remote access, guest networks, backups, logs, and
+privacy obligations.
+\end{block}
+
+\begin{exampleblock}{Why this helps}
+Each lesson adds one layer to the same hospital story, so technical controls and privacy duties do
+not feel like disconnected lists.
+\end{exampleblock}
 \end{frame}
 
 \section{Program}
 
-\begin{frame}[c,allowframebreaks]{Module 1 --- Basics}
-\textit{(1 lesson)}
+\begin{frame}[c]{Lesson 1 --- Security Foundations}
 \begin{itemize}
-    \item Importance of data protection in healthcare settings \cite{health_privacy_2025}
-    \item Intro to data
-    \begin{itemize}
-        \item Definitions: Privacy, security, confidentiality, integrity, availability, \ldots
-        \item Data lifecycle
-    \end{itemize}
-    \item Ethics in patient data protection
-    \begin{itemize}
-        \item Principles: autonomy, beneficence, justice, non-maleficence
-    \end{itemize}
+    \item Why healthcare security matters
+    \item Confidentiality, integrity, and availability
+    \item Risk, likelihood, impact, and basic risk matrices
+    \item Threats, vulnerabilities, attacks, and attack surfaces
+    \item Running example: St. Isidore Hospital
+\end{itemize}
+\bigskip
+\textbf{Outcome:} describe security goals and risks for a healthcare system.
+\end{frame}
+
+\begin{frame}[c]{Lesson 2 --- Cryptographic Foundations}
+\begin{itemize}
+    \item Classical encryption as intuition
+    \item Symmetric encryption: DES, 3DES, AES
+    \item Block ciphers, stream ciphers, and modes
+    \item Authenticated encryption, hashes, HMAC, password hashing
+    \item RSA, signatures, certificates, key exchange, randomness
+    \item Python notebooks with concrete examples
+\end{itemize}
+\bigskip
+\textbf{Outcome:} understand what cryptographic tools do and where they fit.
+\end{frame}
+
+\begin{frame}[c]{Lessons 3--4 --- Access Control and OpenHospital}
+\begin{itemize}
+    \item Subjects, objects, rights, and policies
+    \item DAC, MAC, RBAC, least privilege, separation of duties
+    \item Python notebooks comparing access-control models
+    \item Deploy and access OpenHospital
+    \item Configure users, groups, permissions, and role behavior
+    \item Inspect logs and identify audit gaps
+\end{itemize}
+\bigskip
+\textbf{Outcome:} design, implement, and verify healthcare access-control behavior.
+\end{frame}
+
+\begin{frame}[c]{Lesson 5 --- Authentication}
+\begin{itemize}
+    \item Authentication factors
+    \item Password files, password storage, attacks, and policies
+    \item Challenge-response authentication
+    \item Tokens, smart cards, remote authentication, and MFA
+    \item One-time passwords and TOTP
+    \item Python notebooks on password hashing, challenge-response, and MFA
+\end{itemize}
+\bigskip
+\textbf{Outcome:} understand common authentication mechanisms and their failure modes.
+\end{frame}
+
+\begin{frame}[c]{Lessons 6--7 --- Networking and API Security}
+\begin{itemize}
+    \item IP, subnets, ports, DNS, routing, and hospital network architecture
+    \item Firewalls, packet filtering, stateful firewalls, proxies, and VPNs
+    \item Hands-on firewall policy simulation
+    \item Deploy the real OpenHospital API with MariaDB
+    \item Put Nginx in front of the API
+    \item Harden access by subnet and API path, then verify with logs
+\end{itemize}
+\bigskip
+\textbf{Outcome:} reason about segmentation and test a realistic healthcare API proxy.
+\end{frame}
+
+\begin{frame}[c]{Lesson 8 --- Privacy and Data Protection}
+\begin{itemize}
+    \item From privacy as private life to data protection as information governance
+    \item Personal data, medical data, PHI, identifiability
+    \item Anonymization and pseudonymization
+    \item GDPR as an influential reference model, not the only global regime
+    \item Consent, legal bases, patient rights, accountability, DPIA, breach duties
+    \item Links between privacy duties and technical safeguards \cite{health_privacy_2025}
+\end{itemize}
+\bigskip
+\textbf{Outcome:} connect technical safeguards with legal and ethical duties.
+\end{frame}
+
+\begin{frame}[c]{Lesson 9 --- Operational Security and Incident Response}
+\begin{itemize}
+    \item Operational security mindset
+    \item Phishing, scams, fake IT support, invoice fraud, MFA fatigue
+    \item Ransomware attack chain and healthcare impact
+    \item Backups, 3-2-1 strategy, immutable/offline copies
+    \item RPO, RTO, restore testing, and downtime procedures
+    \item Incident response, breach triage, communication, and tabletop exercise
+\end{itemize}
+\bigskip
+\textbf{Outcome:} describe practical actions before, during, and after an incident.
+\end{frame}
+
+\begin{frame}[c]{Course Integration}
+\begin{enumerate}
+    \item Security goals and risk
+    \item Encryption and integrity mechanisms
+    \item Access-control models
+    \item Real OpenHospital RBAC configuration
+    \item Authentication mechanisms and attacks
+    \item Networking and firewall policy
+    \item Real OpenHospital API proxy lab
+    \item Privacy and data protection governance
+    \item Ransomware, backups, incident response, and communication
+\end{enumerate}
+\end{frame}
+
+\begin{frame}[c]{Labs and Practical Material}
+\begin{itemize}
+    \item Cryptography notebooks
+    \item DAC/MAC/RBAC notebooks
+    \item Authentication notebooks
+    \item Firewall simulation notebook
+    \item OpenHospital RBAC lab
+    \item OpenHospital API network/proxy lab
+    \item Operational tabletop exercise
 \end{itemize}
 \end{frame}
 
-\begin{frame}[c,allowframebreaks]{Module 2 --- Regulations and Compliance}
-\textit{(2 lessons)}
+\begin{frame}[c]{Optional Extensions}
 \begin{itemize}
-    \item International regulations: GDPR, HIPAA, \ldots
-    \begin{itemize}
-        \item Informed consent
-        \item Types of health information (PHI, PII, \ldots)
-        \item Anonymization and pseudonymization
-        \item Data sharing and secondary use
-    \end{itemize}
-    \item Standards: ISO 27001, \ldots
-    \item National laws
-\end{itemize}
-\end{frame}
-
-\begin{frame}[c,allowframebreaks]{Module 3 --- Tech Background (1/2)}
-\textit{(4 lessons)}
-\begin{itemize}
-    \item Health Information Systems
-    \begin{itemize}
-        \item EHR, LIS, RIS, PACS, Pharmacy systems
-        \item Health Information Exchange (HIE), DHIS2
-        \item APIs and interoperability (HL7/FHIR)
-    \end{itemize}
-    \item Intro to networking
-    \item Encryption
-    \begin{itemize}
-        \item Encryption algorithms (basic overview)
-        \item SSL/TLS, VPN, secure email systems
-        \item Key management basics
-    \end{itemize}
-\end{itemize}
-\end{frame}
-
-\begin{frame}[c,allowframebreaks]{Module 3 --- Tech Background (2/2)}
-\begin{itemize}
-    \item Access control mechanisms
-    \begin{itemize}
-        \item Role-based access control (RBAC)
-        \item Password policies and multi-factor authentication
-    \end{itemize}
-    \item Cyber threats
-    \begin{itemize}
-        \item Malware, ransomware, phishing, social engineering
-        \item Insider threats
-        \item Legacy systems and software vulnerabilities
-    \end{itemize}
-\end{itemize}
-\end{frame}
-
-\begin{frame}[c,allowframebreaks]{Module 4 --- System Security}
-\textit{(2 lessons)}
-\begin{itemize}
-    \item Security Principles
-    \begin{itemize}
-        \item CIA triad (Confidentiality, Integrity, Availability)
-        \item Defense in depth, zero trust, least privilege
-        \item Security models and frameworks
-    \end{itemize}
-    \item Healthcare Security Applications
-    \begin{itemize}
-        \item EHR security; mobile health and telemedicine risks
-        \item Cloud-based health systems
-        \item Wearables, IoT health devices, DHIS2
-        \item Audit logging and monitoring
-    \end{itemize}
-\end{itemize}
-\end{frame}
-
-\begin{frame}[c,allowframebreaks]{Module 5 --- Operational Security Management}
-\textit{(2 lessons)}
-\begin{itemize}
-    \item Risk identification, analysis, and prioritization
-    \item Threat modeling and security controls
-    \item Mitigation strategies
-    \item Security awareness and training
-    \item Incident response lifecycle
-    \item Backup, recovery, and business continuity
+    \item Health information systems and interoperability: EHR, LIS, RIS, PACS, DHIS2, HL7/FHIR
+    \item Standards and frameworks: ISO 27001, NIST, CIS Controls
+    \item AI and health data: privacy-preserving analytics, inference risks, synthetic data
+    \item Medical devices, wearables, mobile health, and telemedicine security
 \end{itemize}
 \end{frame}
 
